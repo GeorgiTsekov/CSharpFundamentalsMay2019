@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\obj\Debug\netcoreapp2.1\TechModulFirstLesson.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\obj\Debug\netcoreapp2.1\TechModulFirstLesson.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\obj\Debug\netcoreapp2.1\TechModulFirstLesson.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\obj\Debug\netcoreapp2.1\TechModulFirstLesson.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\bin\Debug\netcoreapp2.1\TechModulFirstLesson.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\bin\Debug\netcoreapp2.1\TechModulFirstLesson.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\bin\Debug\netcoreapp2.1\TechModulFirstLesson.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\bin\Debug\netcoreapp2.1\TechModulFirstLesson.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\bin\Debug\netcoreapp2.1\TechModulFirstLesson.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\obj\Debug\netcoreapp2.1\TechModulFirstLesson.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\TechModulFirstLesson\obj\Debug\netcoreapp2.1\TechModulFirstLesson.pdb

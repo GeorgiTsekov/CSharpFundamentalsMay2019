@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\bin\Debug\netcoreapp2.1\forLoopExercises.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\bin\Debug\netcoreapp2.1\forLoopExercises.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\bin\Debug\netcoreapp2.1\forLoopExercises.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\bin\Debug\netcoreapp2.1\forLoopExercises.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\bin\Debug\netcoreapp2.1\forLoopExercises.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\obj\Debug\netcoreapp2.1\forLoopExercises.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\obj\Debug\netcoreapp2.1\forLoopExercises.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\obj\Debug\netcoreapp2.1\forLoopExercises.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\obj\Debug\netcoreapp2.1\forLoopExercises.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\obj\Debug\netcoreapp2.1\forLoopExercises.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\forLoopExercises\obj\Debug\netcoreapp2.1\forLoopExercises.pdb

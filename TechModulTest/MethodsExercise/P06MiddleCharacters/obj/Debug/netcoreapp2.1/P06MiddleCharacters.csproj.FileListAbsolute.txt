@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\bin\Debug\netcoreapp2.1\P06MiddleCharacters.deps.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\bin\Debug\netcoreapp2.1\P06MiddleCharacters.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\bin\Debug\netcoreapp2.1\P06MiddleCharacters.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\bin\Debug\netcoreapp2.1\P06MiddleCharacters.dll
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\bin\Debug\netcoreapp2.1\P06MiddleCharacters.pdb
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\obj\Debug\netcoreapp2.1\P06MiddleCharacters.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\obj\Debug\netcoreapp2.1\P06MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\obj\Debug\netcoreapp2.1\P06MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\obj\Debug\netcoreapp2.1\P06MiddleCharacters.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\obj\Debug\netcoreapp2.1\P06MiddleCharacters.dll
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P06MiddleCharacters\obj\Debug\netcoreapp2.1\P06MiddleCharacters.pdb

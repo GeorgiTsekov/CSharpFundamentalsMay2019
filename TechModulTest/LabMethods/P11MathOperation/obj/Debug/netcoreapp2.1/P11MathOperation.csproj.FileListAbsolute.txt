@@ -1,0 +1,10 @@
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\bin\Debug\netcoreapp2.1\P11MathOperation.deps.json
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\bin\Debug\netcoreapp2.1\P11MathOperation.runtimeconfig.json
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\bin\Debug\netcoreapp2.1\P11MathOperation.runtimeconfig.dev.json
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\bin\Debug\netcoreapp2.1\P11MathOperation.dll
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\bin\Debug\netcoreapp2.1\P11MathOperation.pdb
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\obj\Debug\netcoreapp2.1\P11MathOperation.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\obj\Debug\netcoreapp2.1\P11MathOperation.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\obj\Debug\netcoreapp2.1\P11MathOperation.AssemblyInfo.cs
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\obj\Debug\netcoreapp2.1\P11MathOperation.dll
+C:\Dev\TechModulTest\LabMethods\P11MathOperation\obj\Debug\netcoreapp2.1\P11MathOperation.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01EncryptSortPrintArray.deps.json
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01EncryptSortPrintArray.runtimeconfig.json
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01EncryptSortPrintArray.runtimeconfig.dev.json
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01EncryptSortPrintArray.dll
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01EncryptSortPrintArray.pdb
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01EncryptSortPrintArray.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01EncryptSortPrintArray.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01EncryptSortPrintArray.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01EncryptSortPrintArray.AssemblyInfo.cs
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01EncryptSortPrintArray.dll
+C:\Dev\TechModul\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01EncryptSortPrintArray.pdb

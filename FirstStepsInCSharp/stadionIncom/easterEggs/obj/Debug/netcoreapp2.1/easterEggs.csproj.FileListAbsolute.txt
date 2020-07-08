@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\bin\Debug\netcoreapp2.1\easterEggs.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\bin\Debug\netcoreapp2.1\easterEggs.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\bin\Debug\netcoreapp2.1\easterEggs.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\bin\Debug\netcoreapp2.1\easterEggs.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\bin\Debug\netcoreapp2.1\easterEggs.pdb
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\obj\Debug\netcoreapp2.1\easterEggs.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\obj\Debug\netcoreapp2.1\easterEggs.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\obj\Debug\netcoreapp2.1\easterEggs.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\obj\Debug\netcoreapp2.1\easterEggs.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\obj\Debug\netcoreapp2.1\easterEggs.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterEggs\obj\Debug\netcoreapp2.1\easterEggs.pdb

@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\bin\Debug\netcoreapp2.1\divideWithoutRemainder.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\bin\Debug\netcoreapp2.1\divideWithoutRemainder.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\bin\Debug\netcoreapp2.1\divideWithoutRemainder.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\bin\Debug\netcoreapp2.1\divideWithoutRemainder.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\bin\Debug\netcoreapp2.1\divideWithoutRemainder.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\obj\Debug\netcoreapp2.1\divideWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\obj\Debug\netcoreapp2.1\divideWithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\obj\Debug\netcoreapp2.1\divideWithoutRemainder.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\obj\Debug\netcoreapp2.1\divideWithoutRemainder.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\divideWithoutRemainder\obj\Debug\netcoreapp2.1\divideWithoutRemainder.pdb

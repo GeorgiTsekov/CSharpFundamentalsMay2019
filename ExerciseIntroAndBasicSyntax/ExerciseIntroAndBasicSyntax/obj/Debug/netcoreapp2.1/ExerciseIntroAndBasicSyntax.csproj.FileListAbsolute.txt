@@ -1,0 +1,11 @@
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.deps.json
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.runtimeconfig.json
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.runtimeconfig.dev.json
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.dll
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.pdb
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.csprojAssemblyReference.cache
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.csproj.CoreCompileInputs.cache
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.AssemblyInfoInputs.cache
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.AssemblyInfo.cs
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.dll
+C:\Dev\ExerciseIntroAndBasicSyntax\ExerciseIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\ExerciseIntroAndBasicSyntax.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\bin\Debug\netcoreapp2.1\P01Concert.deps.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\bin\Debug\netcoreapp2.1\P01Concert.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\bin\Debug\netcoreapp2.1\P01Concert.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\bin\Debug\netcoreapp2.1\P01Concert.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\bin\Debug\netcoreapp2.1\P01Concert.pdb
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\obj\Debug\netcoreapp2.1\P01Concert.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\obj\Debug\netcoreapp2.1\P01Concert.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\obj\Debug\netcoreapp2.1\P01Concert.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\obj\Debug\netcoreapp2.1\P01Concert.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\obj\Debug\netcoreapp2.1\P01Concert.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P01Concert\obj\Debug\netcoreapp2.1\P01Concert.pdb

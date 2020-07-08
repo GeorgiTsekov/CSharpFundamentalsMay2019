@@ -1,0 +1,11 @@
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\bin\Debug\netcoreapp2.1\P01Messaging.deps.json
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\bin\Debug\netcoreapp2.1\P01Messaging.runtimeconfig.json
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\bin\Debug\netcoreapp2.1\P01Messaging.runtimeconfig.dev.json
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\bin\Debug\netcoreapp2.1\P01Messaging.dll
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\bin\Debug\netcoreapp2.1\P01Messaging.pdb
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\obj\Debug\netcoreapp2.1\P01Messaging.csprojAssemblyReference.cache
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\obj\Debug\netcoreapp2.1\P01Messaging.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\obj\Debug\netcoreapp2.1\P01Messaging.AssemblyInfoInputs.cache
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\obj\Debug\netcoreapp2.1\P01Messaging.AssemblyInfo.cs
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\obj\Debug\netcoreapp2.1\P01Messaging.dll
+C:\Dev\TechModul\New folder\ListMoreExercises\P01Messaging\obj\Debug\netcoreapp2.1\P01Messaging.pdb

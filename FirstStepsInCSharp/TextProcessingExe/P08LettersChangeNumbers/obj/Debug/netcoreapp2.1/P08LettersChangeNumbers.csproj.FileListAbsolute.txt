@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\bin\Debug\netcoreapp2.1\P08LettersChangeNumbers.deps.json
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\bin\Debug\netcoreapp2.1\P08LettersChangeNumbers.runtimeconfig.json
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\bin\Debug\netcoreapp2.1\P08LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\bin\Debug\netcoreapp2.1\P08LettersChangeNumbers.dll
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\bin\Debug\netcoreapp2.1\P08LettersChangeNumbers.pdb
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\obj\Debug\netcoreapp2.1\P08LettersChangeNumbers.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\obj\Debug\netcoreapp2.1\P08LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\obj\Debug\netcoreapp2.1\P08LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\obj\Debug\netcoreapp2.1\P08LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\obj\Debug\netcoreapp2.1\P08LettersChangeNumbers.dll
+C:\Users\Cekov\source\repos\TextProcessingExe\P08LettersChangeNumbers\obj\Debug\netcoreapp2.1\P08LettersChangeNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cekov\source\repos\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Cekov\source\repos\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Cekov\source\repos\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Cekov\source\repos\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Cekov\source\repos\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

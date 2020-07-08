@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\concatenate-data1\square area\bin\Debug\netcoreapp2.1\square area.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\square area\bin\Debug\netcoreapp2.1\square area.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\square area\bin\Debug\netcoreapp2.1\square area.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\square area\bin\Debug\netcoreapp2.1\square area.dll
+C:\Users\Cekov\source\repos\concatenate-data1\square area\bin\Debug\netcoreapp2.1\square area.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\square area\obj\Debug\netcoreapp2.1\square area.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\square area\obj\Debug\netcoreapp2.1\square area.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\square area\obj\Debug\netcoreapp2.1\square area.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\square area\obj\Debug\netcoreapp2.1\square area.dll
+C:\Users\Cekov\source\repos\concatenate-data1\square area\obj\Debug\netcoreapp2.1\square area.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\bin\Debug\netcoreapp2.1\P06JaggedArrayManipulator.deps.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\bin\Debug\netcoreapp2.1\P06JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\bin\Debug\netcoreapp2.1\P06JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\bin\Debug\netcoreapp2.1\P06JaggedArrayManipulator.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\bin\Debug\netcoreapp2.1\P06JaggedArrayManipulator.pdb
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\obj\Debug\netcoreapp2.1\P06JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\obj\Debug\netcoreapp2.1\P06JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\obj\Debug\netcoreapp2.1\P06JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\obj\Debug\netcoreapp2.1\P06JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\obj\Debug\netcoreapp2.1\P06JaggedArrayManipulator.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P06JaggedArrayManipulator\obj\Debug\netcoreapp2.1\P06JaggedArrayManipulator.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\bin\Debug\netcoreapp2.1\Inches to Centimeters.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Inches to Centimeters\obj\Debug\netcoreapp2.1\Inches to Centimeters.pdb

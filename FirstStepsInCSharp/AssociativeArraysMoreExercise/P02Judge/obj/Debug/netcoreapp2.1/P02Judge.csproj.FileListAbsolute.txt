@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\bin\Debug\netcoreapp2.1\P02Judge.deps.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\bin\Debug\netcoreapp2.1\P02Judge.runtimeconfig.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\bin\Debug\netcoreapp2.1\P02Judge.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\bin\Debug\netcoreapp2.1\P02Judge.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\bin\Debug\netcoreapp2.1\P02Judge.pdb
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\obj\Debug\netcoreapp2.1\P02Judge.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\obj\Debug\netcoreapp2.1\P02Judge.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\obj\Debug\netcoreapp2.1\P02Judge.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\obj\Debug\netcoreapp2.1\P02Judge.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\obj\Debug\netcoreapp2.1\P02Judge.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P02Judge\obj\Debug\netcoreapp2.1\P02Judge.pdb

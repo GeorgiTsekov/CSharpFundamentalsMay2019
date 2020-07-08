@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\bin\Debug\netcoreapp2.1\P04Orders.deps.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\bin\Debug\netcoreapp2.1\P04Orders.runtimeconfig.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\bin\Debug\netcoreapp2.1\P04Orders.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\bin\Debug\netcoreapp2.1\P04Orders.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\bin\Debug\netcoreapp2.1\P04Orders.pdb
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\obj\Debug\netcoreapp2.1\P04Orders.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\obj\Debug\netcoreapp2.1\P04Orders.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\obj\Debug\netcoreapp2.1\P04Orders.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\obj\Debug\netcoreapp2.1\P04Orders.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\obj\Debug\netcoreapp2.1\P04Orders.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P04Orders\obj\Debug\netcoreapp2.1\P04Orders.pdb

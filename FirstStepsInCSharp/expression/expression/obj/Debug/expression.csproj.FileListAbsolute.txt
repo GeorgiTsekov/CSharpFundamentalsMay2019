@@ -1,0 +1,7 @@
+C:\Users\Cekov\source\repos\expression\expression\bin\Debug\expression.exe.config
+C:\Users\Cekov\source\repos\expression\expression\bin\Debug\expression.exe
+C:\Users\Cekov\source\repos\expression\expression\bin\Debug\expression.pdb
+C:\Users\Cekov\source\repos\expression\expression\obj\Debug\expression.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\expression\expression\obj\Debug\expression.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\expression\expression\obj\Debug\expression.exe
+C:\Users\Cekov\source\repos\expression\expression\obj\Debug\expression.pdb

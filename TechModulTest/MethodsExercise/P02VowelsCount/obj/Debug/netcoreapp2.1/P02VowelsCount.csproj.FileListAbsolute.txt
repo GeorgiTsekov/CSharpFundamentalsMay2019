@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\bin\Debug\netcoreapp2.1\P02VowelsCount.deps.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\bin\Debug\netcoreapp2.1\P02VowelsCount.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\bin\Debug\netcoreapp2.1\P02VowelsCount.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\bin\Debug\netcoreapp2.1\P02VowelsCount.dll
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\bin\Debug\netcoreapp2.1\P02VowelsCount.pdb
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\obj\Debug\netcoreapp2.1\P02VowelsCount.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\obj\Debug\netcoreapp2.1\P02VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\obj\Debug\netcoreapp2.1\P02VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\obj\Debug\netcoreapp2.1\P02VowelsCount.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\obj\Debug\netcoreapp2.1\P02VowelsCount.dll
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P02VowelsCount\obj\Debug\netcoreapp2.1\P02VowelsCount.pdb

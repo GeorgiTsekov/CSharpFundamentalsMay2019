@@ -1,0 +1,10 @@
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\bin\Debug\netcoreapp2.1\P03Elevator.deps.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\bin\Debug\netcoreapp2.1\P03Elevator.runtimeconfig.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\bin\Debug\netcoreapp2.1\P03Elevator.runtimeconfig.dev.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\bin\Debug\netcoreapp2.1\P03Elevator.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\bin\Debug\netcoreapp2.1\P03Elevator.pdb
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\obj\Debug\netcoreapp2.1\P03Elevator.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\obj\Debug\netcoreapp2.1\P03Elevator.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\obj\Debug\netcoreapp2.1\P03Elevator.AssemblyInfo.cs
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\obj\Debug\netcoreapp2.1\P03Elevator.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P03Elevator\obj\Debug\netcoreapp2.1\P03Elevator.pdb

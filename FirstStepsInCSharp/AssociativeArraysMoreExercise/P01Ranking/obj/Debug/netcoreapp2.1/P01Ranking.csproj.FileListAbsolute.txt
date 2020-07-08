@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\bin\Debug\netcoreapp2.1\P01Ranking.deps.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\bin\Debug\netcoreapp2.1\P01Ranking.runtimeconfig.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\bin\Debug\netcoreapp2.1\P01Ranking.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\bin\Debug\netcoreapp2.1\P01Ranking.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\bin\Debug\netcoreapp2.1\P01Ranking.pdb
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\obj\Debug\netcoreapp2.1\P01Ranking.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\obj\Debug\netcoreapp2.1\P01Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\obj\Debug\netcoreapp2.1\P01Ranking.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\obj\Debug\netcoreapp2.1\P01Ranking.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\obj\Debug\netcoreapp2.1\P01Ranking.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P01Ranking\obj\Debug\netcoreapp2.1\P01Ranking.pdb

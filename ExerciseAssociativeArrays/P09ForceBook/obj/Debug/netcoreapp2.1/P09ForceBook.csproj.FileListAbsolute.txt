@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\bin\Debug\netcoreapp2.1\P09ForceBook.deps.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\bin\Debug\netcoreapp2.1\P09ForceBook.runtimeconfig.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\bin\Debug\netcoreapp2.1\P09ForceBook.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\bin\Debug\netcoreapp2.1\P09ForceBook.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\bin\Debug\netcoreapp2.1\P09ForceBook.pdb
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\obj\Debug\netcoreapp2.1\P09ForceBook.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\obj\Debug\netcoreapp2.1\P09ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\obj\Debug\netcoreapp2.1\P09ForceBook.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\obj\Debug\netcoreapp2.1\P09ForceBook.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\obj\Debug\netcoreapp2.1\P09ForceBook.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P09ForceBook\obj\Debug\netcoreapp2.1\P09ForceBook.pdb

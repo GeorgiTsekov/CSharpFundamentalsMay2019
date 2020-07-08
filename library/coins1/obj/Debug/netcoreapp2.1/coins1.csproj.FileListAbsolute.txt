@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\library\coins1\bin\Debug\netcoreapp2.1\coins1.deps.json
+c:\users\tmp\source\repos\library\coins1\bin\Debug\netcoreapp2.1\coins1.runtimeconfig.json
+c:\users\tmp\source\repos\library\coins1\bin\Debug\netcoreapp2.1\coins1.runtimeconfig.dev.json
+c:\users\tmp\source\repos\library\coins1\bin\Debug\netcoreapp2.1\coins1.dll
+c:\users\tmp\source\repos\library\coins1\bin\Debug\netcoreapp2.1\coins1.pdb
+c:\users\tmp\source\repos\library\coins1\obj\Debug\netcoreapp2.1\coins1.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\library\coins1\obj\Debug\netcoreapp2.1\coins1.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\library\coins1\obj\Debug\netcoreapp2.1\coins1.AssemblyInfo.cs
+c:\users\tmp\source\repos\library\coins1\obj\Debug\netcoreapp2.1\coins1.dll
+c:\users\tmp\source\repos\library\coins1\obj\Debug\netcoreapp2.1\coins1.pdb
+c:\users\tmp\source\repos\library\coins1\obj\Debug\netcoreapp2.1\coins1.csprojAssemblyReference.cache

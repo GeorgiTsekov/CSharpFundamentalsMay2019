@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\LabMethods\P03Calculations\bin\Debug\netcoreapp2.1\P03Calculations.deps.json
+C:\Dev\TechModulTest\LabMethods\P03Calculations\bin\Debug\netcoreapp2.1\P03Calculations.runtimeconfig.json
+C:\Dev\TechModulTest\LabMethods\P03Calculations\bin\Debug\netcoreapp2.1\P03Calculations.runtimeconfig.dev.json
+C:\Dev\TechModulTest\LabMethods\P03Calculations\bin\Debug\netcoreapp2.1\P03Calculations.dll
+C:\Dev\TechModulTest\LabMethods\P03Calculations\bin\Debug\netcoreapp2.1\P03Calculations.pdb
+C:\Dev\TechModulTest\LabMethods\P03Calculations\obj\Debug\netcoreapp2.1\P03Calculations.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\LabMethods\P03Calculations\obj\Debug\netcoreapp2.1\P03Calculations.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\LabMethods\P03Calculations\obj\Debug\netcoreapp2.1\P03Calculations.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\LabMethods\P03Calculations\obj\Debug\netcoreapp2.1\P03Calculations.AssemblyInfo.cs
+C:\Dev\TechModulTest\LabMethods\P03Calculations\obj\Debug\netcoreapp2.1\P03Calculations.dll
+C:\Dev\TechModulTest\LabMethods\P03Calculations\obj\Debug\netcoreapp2.1\P03Calculations.pdb

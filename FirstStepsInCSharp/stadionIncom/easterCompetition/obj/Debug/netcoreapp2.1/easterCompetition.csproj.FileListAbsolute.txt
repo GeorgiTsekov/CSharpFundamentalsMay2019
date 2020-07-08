@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\bin\Debug\netcoreapp2.1\easterCompetition.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\bin\Debug\netcoreapp2.1\easterCompetition.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\bin\Debug\netcoreapp2.1\easterCompetition.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\bin\Debug\netcoreapp2.1\easterCompetition.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\bin\Debug\netcoreapp2.1\easterCompetition.pdb
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\obj\Debug\netcoreapp2.1\easterCompetition.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\obj\Debug\netcoreapp2.1\easterCompetition.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\obj\Debug\netcoreapp2.1\easterCompetition.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\obj\Debug\netcoreapp2.1\easterCompetition.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\obj\Debug\netcoreapp2.1\easterCompetition.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterCompetition\obj\Debug\netcoreapp2.1\easterCompetition.pdb

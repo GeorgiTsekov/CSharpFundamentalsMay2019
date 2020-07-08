@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.deps.json
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.json
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.dev.json
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.pdb
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfo.cs
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Dev\TechModulTest\ArreyMoreExerc\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.pdb

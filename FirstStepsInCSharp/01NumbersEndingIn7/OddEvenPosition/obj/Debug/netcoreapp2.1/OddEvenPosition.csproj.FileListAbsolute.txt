@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\bin\Debug\netcoreapp2.1\OddEvenPosition.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\bin\Debug\netcoreapp2.1\OddEvenPosition.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\bin\Debug\netcoreapp2.1\OddEvenPosition.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\bin\Debug\netcoreapp2.1\OddEvenPosition.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\bin\Debug\netcoreapp2.1\OddEvenPosition.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\obj\Debug\netcoreapp2.1\OddEvenPosition.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\obj\Debug\netcoreapp2.1\OddEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\obj\Debug\netcoreapp2.1\OddEvenPosition.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\obj\Debug\netcoreapp2.1\OddEvenPosition.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\obj\Debug\netcoreapp2.1\OddEvenPosition.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\OddEvenPosition\obj\Debug\netcoreapp2.1\OddEvenPosition.pdb

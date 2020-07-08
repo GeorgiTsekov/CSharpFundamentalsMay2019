@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\bin\Debug\netcoreapp2.1\P04Songs.deps.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\bin\Debug\netcoreapp2.1\P04Songs.runtimeconfig.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\bin\Debug\netcoreapp2.1\P04Songs.runtimeconfig.dev.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\bin\Debug\netcoreapp2.1\P04Songs.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\bin\Debug\netcoreapp2.1\P04Songs.pdb
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\obj\Debug\netcoreapp2.1\P04Songs.csprojAssemblyReference.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\obj\Debug\netcoreapp2.1\P04Songs.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\obj\Debug\netcoreapp2.1\P04Songs.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\obj\Debug\netcoreapp2.1\P04Songs.AssemblyInfo.cs
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\obj\Debug\netcoreapp2.1\P04Songs.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\P04Songs\obj\Debug\netcoreapp2.1\P04Songs.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\bin\Debug\netcoreapp2.1\P05Students.deps.json
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\bin\Debug\netcoreapp2.1\P05Students.runtimeconfig.json
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\bin\Debug\netcoreapp2.1\P05Students.runtimeconfig.dev.json
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\bin\Debug\netcoreapp2.1\P05Students.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\bin\Debug\netcoreapp2.1\P05Students.pdb
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\obj\Debug\netcoreapp2.1\P05Students.csprojAssemblyReference.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\obj\Debug\netcoreapp2.1\P05Students.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\obj\Debug\netcoreapp2.1\P05Students.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\obj\Debug\netcoreapp2.1\P05Students.AssemblyInfo.cs
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\obj\Debug\netcoreapp2.1\P05Students.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\Students\obj\Debug\netcoreapp2.1\P05Students.pdb

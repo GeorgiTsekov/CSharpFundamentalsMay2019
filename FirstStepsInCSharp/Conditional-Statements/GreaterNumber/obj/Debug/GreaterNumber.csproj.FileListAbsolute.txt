@@ -1,0 +1,6 @@
+C:\Users\Cekov\source\repos\Conditional-Statements\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\Cekov\source\repos\Conditional-Statements\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\Cekov\source\repos\Conditional-Statements\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\GreaterNumber\obj\Debug\GreaterNumber.pdb

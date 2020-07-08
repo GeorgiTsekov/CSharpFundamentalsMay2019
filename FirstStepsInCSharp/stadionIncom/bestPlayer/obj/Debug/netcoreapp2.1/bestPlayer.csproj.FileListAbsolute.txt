@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\bin\Debug\netcoreapp2.1\bestPlayer.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\bin\Debug\netcoreapp2.1\bestPlayer.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\bin\Debug\netcoreapp2.1\bestPlayer.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\bin\Debug\netcoreapp2.1\bestPlayer.dll
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\bin\Debug\netcoreapp2.1\bestPlayer.pdb
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\obj\Debug\netcoreapp2.1\bestPlayer.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\obj\Debug\netcoreapp2.1\bestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\obj\Debug\netcoreapp2.1\bestPlayer.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\obj\Debug\netcoreapp2.1\bestPlayer.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\obj\Debug\netcoreapp2.1\bestPlayer.dll
+C:\Users\Cekov\source\repos\stadionIncom\bestPlayer\obj\Debug\netcoreapp2.1\bestPlayer.pdb

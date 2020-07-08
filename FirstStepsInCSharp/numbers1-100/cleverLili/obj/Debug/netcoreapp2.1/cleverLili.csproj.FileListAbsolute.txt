@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\bin\Debug\netcoreapp2.1\cleverLili.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\bin\Debug\netcoreapp2.1\cleverLili.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\bin\Debug\netcoreapp2.1\cleverLili.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\bin\Debug\netcoreapp2.1\cleverLili.dll
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\bin\Debug\netcoreapp2.1\cleverLili.pdb
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\obj\Debug\netcoreapp2.1\cleverLili.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\obj\Debug\netcoreapp2.1\cleverLili.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\obj\Debug\netcoreapp2.1\cleverLili.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\obj\Debug\netcoreapp2.1\cleverLili.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\obj\Debug\netcoreapp2.1\cleverLili.dll
+C:\Users\Cekov\source\repos\numbers1-100\cleverLili\obj\Debug\netcoreapp2.1\cleverLili.pdb

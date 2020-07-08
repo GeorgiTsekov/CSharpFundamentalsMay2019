@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\bin\Debug\netcoreapp2.1\P08CompanyUsers.deps.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\bin\Debug\netcoreapp2.1\P08CompanyUsers.runtimeconfig.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\bin\Debug\netcoreapp2.1\P08CompanyUsers.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\bin\Debug\netcoreapp2.1\P08CompanyUsers.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\bin\Debug\netcoreapp2.1\P08CompanyUsers.pdb
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\obj\Debug\netcoreapp2.1\P08CompanyUsers.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\obj\Debug\netcoreapp2.1\P08CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\obj\Debug\netcoreapp2.1\P08CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\obj\Debug\netcoreapp2.1\P08CompanyUsers.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\obj\Debug\netcoreapp2.1\P08CompanyUsers.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P08CompanyUsers\obj\Debug\netcoreapp2.1\P08CompanyUsers.pdb

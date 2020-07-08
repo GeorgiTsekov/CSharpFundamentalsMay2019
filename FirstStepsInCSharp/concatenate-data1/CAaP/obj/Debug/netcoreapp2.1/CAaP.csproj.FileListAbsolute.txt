@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\bin\Debug\netcoreapp2.1\CAaP.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\bin\Debug\netcoreapp2.1\CAaP.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\bin\Debug\netcoreapp2.1\CAaP.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\bin\Debug\netcoreapp2.1\CAaP.dll
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\bin\Debug\netcoreapp2.1\CAaP.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\obj\Debug\netcoreapp2.1\CAaP.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\obj\Debug\netcoreapp2.1\CAaP.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\obj\Debug\netcoreapp2.1\CAaP.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\obj\Debug\netcoreapp2.1\CAaP.dll
+C:\Users\Cekov\source\repos\concatenate-data1\CAaP\obj\Debug\netcoreapp2.1\CAaP.pdb

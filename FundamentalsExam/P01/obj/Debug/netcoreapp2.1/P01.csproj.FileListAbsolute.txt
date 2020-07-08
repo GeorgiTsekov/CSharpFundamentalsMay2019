@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\bin\Debug\netcoreapp2.1\P01.deps.json
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\bin\Debug\netcoreapp2.1\P01.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\bin\Debug\netcoreapp2.1\P01.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\bin\Debug\netcoreapp2.1\P01.dll
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\bin\Debug\netcoreapp2.1\P01.pdb
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\obj\Debug\netcoreapp2.1\P01.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\obj\Debug\netcoreapp2.1\P01.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\obj\Debug\netcoreapp2.1\P01.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\obj\Debug\netcoreapp2.1\P01.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\obj\Debug\netcoreapp2.1\P01.dll
+C:\Users\Tmp\source\repos\TechModul\FundamentalsExam\P01\obj\Debug\netcoreapp2.1\P01.pdb

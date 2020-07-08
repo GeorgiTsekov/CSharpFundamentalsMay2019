@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\bin\Debug\netcoreapp2.1\P03ShoppingSpree.deps.json
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\bin\Debug\netcoreapp2.1\P03ShoppingSpree.runtimeconfig.json
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\bin\Debug\netcoreapp2.1\P03ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\bin\Debug\netcoreapp2.1\P03ShoppingSpree.dll
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\bin\Debug\netcoreapp2.1\P03ShoppingSpree.pdb
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\obj\Debug\netcoreapp2.1\P03ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\obj\Debug\netcoreapp2.1\P03ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\obj\Debug\netcoreapp2.1\P03ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\obj\Debug\netcoreapp2.1\P03ShoppingSpree.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\obj\Debug\netcoreapp2.1\P03ShoppingSpree.dll
+C:\Users\Tmp\source\repos\EncapsulationExe\P03ShoppingSpree\obj\Debug\netcoreapp2.1\P03ShoppingSpree.pdb

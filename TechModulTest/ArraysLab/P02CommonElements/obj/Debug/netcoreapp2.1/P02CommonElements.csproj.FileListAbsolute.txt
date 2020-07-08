@@ -1,0 +1,10 @@
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.deps.json
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.runtimeconfig.json
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.runtimeconfig.dev.json
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.dll
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.pdb
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.AssemblyInfo.cs
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.dll
+C:\Dev\TechModulTest\ArraysLab\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.pdb

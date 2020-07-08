@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\bin\Debug\netcoreapp2.1\P04Students.deps.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\bin\Debug\netcoreapp2.1\P04Students.runtimeconfig.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\bin\Debug\netcoreapp2.1\P04Students.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\bin\Debug\netcoreapp2.1\P04Students.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\bin\Debug\netcoreapp2.1\P04Students.pdb
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\obj\Debug\netcoreapp2.1\P04Students.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\obj\Debug\netcoreapp2.1\P04Students.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\obj\Debug\netcoreapp2.1\P04Students.AssemblyInfo.cs
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\obj\Debug\netcoreapp2.1\P04Students.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\obj\Debug\netcoreapp2.1\P04Students.pdb
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P04Students\obj\Debug\netcoreapp2.1\P04Students.csprojAssemblyReference.cache

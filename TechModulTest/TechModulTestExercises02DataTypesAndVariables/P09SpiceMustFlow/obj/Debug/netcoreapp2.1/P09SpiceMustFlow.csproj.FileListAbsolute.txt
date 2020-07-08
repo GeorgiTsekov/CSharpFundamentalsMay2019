@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\bin\Debug\netcoreapp2.1\P09SpiceMustFlow.deps.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\bin\Debug\netcoreapp2.1\P09SpiceMustFlow.runtimeconfig.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\bin\Debug\netcoreapp2.1\P09SpiceMustFlow.runtimeconfig.dev.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\bin\Debug\netcoreapp2.1\P09SpiceMustFlow.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\bin\Debug\netcoreapp2.1\P09SpiceMustFlow.pdb
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\obj\Debug\netcoreapp2.1\P09SpiceMustFlow.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\obj\Debug\netcoreapp2.1\P09SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\obj\Debug\netcoreapp2.1\P09SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\obj\Debug\netcoreapp2.1\P09SpiceMustFlow.AssemblyInfo.cs
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\obj\Debug\netcoreapp2.1\P09SpiceMustFlow.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P09SpiceMustFlow\obj\Debug\netcoreapp2.1\P09SpiceMustFlow.pdb

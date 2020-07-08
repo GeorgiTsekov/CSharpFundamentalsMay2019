@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\bin\Debug\netcoreapp2.1\sumNumbers.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\bin\Debug\netcoreapp2.1\sumNumbers.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\bin\Debug\netcoreapp2.1\sumNumbers.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\bin\Debug\netcoreapp2.1\sumNumbers.dll
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\bin\Debug\netcoreapp2.1\sumNumbers.pdb
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\obj\Debug\netcoreapp2.1\sumNumbers.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\obj\Debug\netcoreapp2.1\sumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\obj\Debug\netcoreapp2.1\sumNumbers.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\obj\Debug\netcoreapp2.1\sumNumbers.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\obj\Debug\netcoreapp2.1\sumNumbers.dll
+C:\Users\Cekov\source\repos\numbers1-100\sumNumbers\obj\Debug\netcoreapp2.1\sumNumbers.pdb

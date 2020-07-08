@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.deps.json
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.dll
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\bin\Debug\netcoreapp2.1\TrainTheTrainers.pdb
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.dll
+C:\Users\Cekov\source\repos\matrix\TrainTheTrainers\obj\Debug\netcoreapp2.1\TrainTheTrainers.pdb

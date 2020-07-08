@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\coins\steps\bin\Debug\netcoreapp2.1\steps.deps.json
+C:\Users\Cekov\source\repos\coins\steps\bin\Debug\netcoreapp2.1\steps.runtimeconfig.json
+C:\Users\Cekov\source\repos\coins\steps\bin\Debug\netcoreapp2.1\steps.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\coins\steps\bin\Debug\netcoreapp2.1\steps.dll
+C:\Users\Cekov\source\repos\coins\steps\bin\Debug\netcoreapp2.1\steps.pdb
+C:\Users\Cekov\source\repos\coins\steps\obj\Debug\netcoreapp2.1\steps.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\coins\steps\obj\Debug\netcoreapp2.1\steps.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\coins\steps\obj\Debug\netcoreapp2.1\steps.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\coins\steps\obj\Debug\netcoreapp2.1\steps.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\coins\steps\obj\Debug\netcoreapp2.1\steps.dll
+C:\Users\Cekov\source\repos\coins\steps\obj\Debug\netcoreapp2.1\steps.pdb

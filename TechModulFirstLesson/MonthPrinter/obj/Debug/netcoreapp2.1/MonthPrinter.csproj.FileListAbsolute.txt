@@ -1,0 +1,10 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\bin\Debug\netcoreapp2.1\MonthPrinter.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\MonthPrinter\obj\Debug\netcoreapp2.1\MonthPrinter.pdb

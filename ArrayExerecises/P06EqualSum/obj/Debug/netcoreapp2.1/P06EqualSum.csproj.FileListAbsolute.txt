@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\bin\Debug\netcoreapp2.1\P06EqualSum.deps.json
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\bin\Debug\netcoreapp2.1\P06EqualSum.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\bin\Debug\netcoreapp2.1\P06EqualSum.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\bin\Debug\netcoreapp2.1\P06EqualSum.dll
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\bin\Debug\netcoreapp2.1\P06EqualSum.pdb
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\obj\Debug\netcoreapp2.1\P06EqualSum.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\obj\Debug\netcoreapp2.1\P06EqualSum.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\obj\Debug\netcoreapp2.1\P06EqualSum.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\obj\Debug\netcoreapp2.1\P06EqualSum.dll
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\obj\Debug\netcoreapp2.1\P06EqualSum.pdb
+C:\Dev\TechModul\ArrayExerecises\P06EqualSum\obj\Debug\netcoreapp2.1\P06EqualSum.csprojAssemblyReference.cache

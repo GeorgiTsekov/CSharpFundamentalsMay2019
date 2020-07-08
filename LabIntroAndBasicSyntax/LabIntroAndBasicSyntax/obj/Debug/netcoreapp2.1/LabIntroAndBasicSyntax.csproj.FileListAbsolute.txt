@@ -1,0 +1,11 @@
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.deps.json
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.runtimeconfig.json
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.runtimeconfig.dev.json
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.dll
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\bin\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.pdb
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.csprojAssemblyReference.cache
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.AssemblyInfoInputs.cache
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.AssemblyInfo.cs
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.dll
+C:\Dev\TechModul\LabIntroAndBasicSyntax\LabIntroAndBasicSyntax\obj\Debug\netcoreapp2.1\LabIntroAndBasicSyntax.pdb

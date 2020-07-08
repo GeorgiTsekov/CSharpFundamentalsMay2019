@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\bin\Debug\netcoreapp2.1\nestedLoopsLab.deps.json
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\bin\Debug\netcoreapp2.1\nestedLoopsLab.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\bin\Debug\netcoreapp2.1\nestedLoopsLab.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\bin\Debug\netcoreapp2.1\nestedLoopsLab.dll
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\bin\Debug\netcoreapp2.1\nestedLoopsLab.pdb
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\obj\Debug\netcoreapp2.1\nestedLoopsLab.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\obj\Debug\netcoreapp2.1\nestedLoopsLab.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\obj\Debug\netcoreapp2.1\nestedLoopsLab.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\obj\Debug\netcoreapp2.1\nestedLoopsLab.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\obj\Debug\netcoreapp2.1\nestedLoopsLab.dll
+c:\users\tmp\source\repos\numbersNto1\nestedLoopsLab\obj\Debug\netcoreapp2.1\nestedLoopsLab.pdb

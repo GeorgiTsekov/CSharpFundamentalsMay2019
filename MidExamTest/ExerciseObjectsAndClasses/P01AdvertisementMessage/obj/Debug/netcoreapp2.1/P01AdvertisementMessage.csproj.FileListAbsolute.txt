@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\bin\Debug\netcoreapp2.1\P01AdvertisementMessage.deps.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\bin\Debug\netcoreapp2.1\P01AdvertisementMessage.runtimeconfig.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\bin\Debug\netcoreapp2.1\P01AdvertisementMessage.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\bin\Debug\netcoreapp2.1\P01AdvertisementMessage.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\bin\Debug\netcoreapp2.1\P01AdvertisementMessage.pdb
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\obj\Debug\netcoreapp2.1\P01AdvertisementMessage.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\obj\Debug\netcoreapp2.1\P01AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\obj\Debug\netcoreapp2.1\P01AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\obj\Debug\netcoreapp2.1\P01AdvertisementMessage.AssemblyInfo.cs
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\obj\Debug\netcoreapp2.1\P01AdvertisementMessage.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P01AdvertisementMessage\obj\Debug\netcoreapp2.1\P01AdvertisementMessage.pdb

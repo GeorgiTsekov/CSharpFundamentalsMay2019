@@ -1,0 +1,22 @@
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.deps.json
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.runtimeconfig.json
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.runtimeconfig.dev.json
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.dll
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.pdb
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.csprojAssemblyReference.cache
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.AssemblyInfoInputs.cache
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.AssemblyInfo.cs
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.dll
+C:\Dev\TechModul\New folder\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.pdb
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.deps.json
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.runtimeconfig.json
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.runtimeconfig.dev.json
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.dll
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\bin\Debug\netcoreapp2.1\P03TakeSkipRope.pdb
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.csprojAssemblyReference.cache
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.AssemblyInfo.cs
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.dll
+C:\Dev\TechModul\ListMoreExercises\P03TakeSkipRope\obj\Debug\netcoreapp2.1\P03TakeSkipRope.pdb

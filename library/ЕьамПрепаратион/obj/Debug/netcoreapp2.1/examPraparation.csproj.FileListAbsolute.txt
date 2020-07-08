@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\bin\Debug\netcoreapp2.1\examPraparation.deps.json
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\bin\Debug\netcoreapp2.1\examPraparation.runtimeconfig.json
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\bin\Debug\netcoreapp2.1\examPraparation.runtimeconfig.dev.json
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\bin\Debug\netcoreapp2.1\examPraparation.dll
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\bin\Debug\netcoreapp2.1\examPraparation.pdb
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\obj\Debug\netcoreapp2.1\examPraparation.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\obj\Debug\netcoreapp2.1\examPraparation.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\obj\Debug\netcoreapp2.1\examPraparation.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\obj\Debug\netcoreapp2.1\examPraparation.AssemblyInfo.cs
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\obj\Debug\netcoreapp2.1\examPraparation.dll
+c:\users\tmp\source\repos\library\ЕьамПрепаратион\obj\Debug\netcoreapp2.1\examPraparation.pdb

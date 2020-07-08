@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\coins\cake\bin\Debug\netcoreapp2.1\cake.deps.json
+C:\Users\Cekov\source\repos\coins\cake\bin\Debug\netcoreapp2.1\cake.runtimeconfig.json
+C:\Users\Cekov\source\repos\coins\cake\bin\Debug\netcoreapp2.1\cake.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\coins\cake\bin\Debug\netcoreapp2.1\cake.dll
+C:\Users\Cekov\source\repos\coins\cake\bin\Debug\netcoreapp2.1\cake.pdb
+C:\Users\Cekov\source\repos\coins\cake\obj\Debug\netcoreapp2.1\cake.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\coins\cake\obj\Debug\netcoreapp2.1\cake.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\coins\cake\obj\Debug\netcoreapp2.1\cake.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\coins\cake\obj\Debug\netcoreapp2.1\cake.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\coins\cake\obj\Debug\netcoreapp2.1\cake.dll
+C:\Users\Cekov\source\repos\coins\cake\obj\Debug\netcoreapp2.1\cake.pdb

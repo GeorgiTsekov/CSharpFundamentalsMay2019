@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\bin\Debug\netcoreapp2.1\P05DragonArmy.deps.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\bin\Debug\netcoreapp2.1\P05DragonArmy.runtimeconfig.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\bin\Debug\netcoreapp2.1\P05DragonArmy.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\bin\Debug\netcoreapp2.1\P05DragonArmy.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\bin\Debug\netcoreapp2.1\P05DragonArmy.pdb
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\obj\Debug\netcoreapp2.1\P05DragonArmy.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\obj\Debug\netcoreapp2.1\P05DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\obj\Debug\netcoreapp2.1\P05DragonArmy.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\obj\Debug\netcoreapp2.1\P05DragonArmy.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\obj\Debug\netcoreapp2.1\P05DragonArmy.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P05DragonArmy\obj\Debug\netcoreapp2.1\P05DragonArmy.pdb

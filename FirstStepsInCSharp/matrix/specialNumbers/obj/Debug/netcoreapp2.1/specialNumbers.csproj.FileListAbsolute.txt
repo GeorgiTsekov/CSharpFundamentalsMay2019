@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\matrix\specialNumbers\obj\Debug\netcoreapp2.1\specialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\specialNumbers\obj\Debug\netcoreapp2.1\specialNumbers.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\specialNumbers\obj\Debug\netcoreapp2.1\specialNumbers.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\specialNumbers\bin\Debug\netcoreapp2.1\specialNumbers.deps.json
+C:\Users\Cekov\source\repos\matrix\specialNumbers\bin\Debug\netcoreapp2.1\specialNumbers.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\specialNumbers\bin\Debug\netcoreapp2.1\specialNumbers.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\specialNumbers\bin\Debug\netcoreapp2.1\specialNumbers.dll
+C:\Users\Cekov\source\repos\matrix\specialNumbers\bin\Debug\netcoreapp2.1\specialNumbers.pdb
+C:\Users\Cekov\source\repos\matrix\specialNumbers\obj\Debug\netcoreapp2.1\specialNumbers.dll
+C:\Users\Cekov\source\repos\matrix\specialNumbers\obj\Debug\netcoreapp2.1\specialNumbers.pdb

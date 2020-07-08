@@ -1,0 +1,10 @@
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\bin\Debug\netcoreapp2.1\P03ExtractFile.deps.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\bin\Debug\netcoreapp2.1\P03ExtractFile.runtimeconfig.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\bin\Debug\netcoreapp2.1\P03ExtractFile.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\bin\Debug\netcoreapp2.1\P03ExtractFile.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\bin\Debug\netcoreapp2.1\P03ExtractFile.pdb
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\obj\Debug\netcoreapp2.1\P03ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\obj\Debug\netcoreapp2.1\P03ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\obj\Debug\netcoreapp2.1\P03ExtractFile.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\obj\Debug\netcoreapp2.1\P03ExtractFile.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P03ExtractFile\obj\Debug\netcoreapp2.1\P03ExtractFile.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\bin\Debug\netcoreapp2.1\Greetings1.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\bin\Debug\netcoreapp2.1\Greetings1.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\bin\Debug\netcoreapp2.1\Greetings1.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\bin\Debug\netcoreapp2.1\Greetings1.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\bin\Debug\netcoreapp2.1\Greetings1.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\obj\Debug\netcoreapp2.1\Greetings1.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\obj\Debug\netcoreapp2.1\Greetings1.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\obj\Debug\netcoreapp2.1\Greetings1.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\obj\Debug\netcoreapp2.1\Greetings1.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\obj\Debug\netcoreapp2.1\Greetings1.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Greetings1\obj\Debug\netcoreapp2.1\Greetings1.pdb

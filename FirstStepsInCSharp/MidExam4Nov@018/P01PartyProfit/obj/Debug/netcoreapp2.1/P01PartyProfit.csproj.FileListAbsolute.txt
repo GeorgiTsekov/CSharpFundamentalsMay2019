@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.deps.json
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.runtimeconfig.json
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.dll
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.pdb
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.dll
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.pdb

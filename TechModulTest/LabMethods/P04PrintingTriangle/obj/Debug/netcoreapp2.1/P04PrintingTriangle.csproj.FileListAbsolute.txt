@@ -1,0 +1,10 @@
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\bin\Debug\netcoreapp2.1\P04PrintingTriangle.deps.json
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\bin\Debug\netcoreapp2.1\P04PrintingTriangle.runtimeconfig.json
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\bin\Debug\netcoreapp2.1\P04PrintingTriangle.runtimeconfig.dev.json
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\bin\Debug\netcoreapp2.1\P04PrintingTriangle.dll
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\bin\Debug\netcoreapp2.1\P04PrintingTriangle.pdb
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\obj\Debug\netcoreapp2.1\P04PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\obj\Debug\netcoreapp2.1\P04PrintingTriangle.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\obj\Debug\netcoreapp2.1\P04PrintingTriangle.AssemblyInfo.cs
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\obj\Debug\netcoreapp2.1\P04PrintingTriangle.dll
+C:\Dev\TechModulTest\LabMethods\P04PrintingTriangle\obj\Debug\netcoreapp2.1\P04PrintingTriangle.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\matrix\coding\bin\Debug\netcoreapp2.1\coding.deps.json
+C:\Users\Cekov\source\repos\matrix\coding\bin\Debug\netcoreapp2.1\coding.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\coding\bin\Debug\netcoreapp2.1\coding.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\coding\bin\Debug\netcoreapp2.1\coding.dll
+C:\Users\Cekov\source\repos\matrix\coding\bin\Debug\netcoreapp2.1\coding.pdb
+C:\Users\Cekov\source\repos\matrix\coding\obj\Debug\netcoreapp2.1\coding.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\matrix\coding\obj\Debug\netcoreapp2.1\coding.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\coding\obj\Debug\netcoreapp2.1\coding.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\coding\obj\Debug\netcoreapp2.1\coding.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\coding\obj\Debug\netcoreapp2.1\coding.dll
+C:\Users\Cekov\source\repos\matrix\coding\obj\Debug\netcoreapp2.1\coding.pdb

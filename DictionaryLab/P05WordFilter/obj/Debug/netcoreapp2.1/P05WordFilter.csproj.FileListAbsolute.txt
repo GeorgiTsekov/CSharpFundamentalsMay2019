@@ -1,0 +1,11 @@
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\bin\Debug\netcoreapp2.1\P05WordFilter.deps.json
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\bin\Debug\netcoreapp2.1\P05WordFilter.runtimeconfig.json
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\bin\Debug\netcoreapp2.1\P05WordFilter.runtimeconfig.dev.json
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\bin\Debug\netcoreapp2.1\P05WordFilter.dll
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\bin\Debug\netcoreapp2.1\P05WordFilter.pdb
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\obj\Debug\netcoreapp2.1\P05WordFilter.csprojAssemblyReference.cache
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\obj\Debug\netcoreapp2.1\P05WordFilter.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\obj\Debug\netcoreapp2.1\P05WordFilter.AssemblyInfoInputs.cache
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\obj\Debug\netcoreapp2.1\P05WordFilter.AssemblyInfo.cs
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\obj\Debug\netcoreapp2.1\P05WordFilter.dll
+C:\Dev\TechModul\DictionaryLab\P05WordFilter\obj\Debug\netcoreapp2.1\P05WordFilter.pdb

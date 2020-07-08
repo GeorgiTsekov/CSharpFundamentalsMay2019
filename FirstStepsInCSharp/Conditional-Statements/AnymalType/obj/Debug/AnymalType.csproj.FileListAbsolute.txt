@@ -1,0 +1,7 @@
+C:\Users\Cekov\source\repos\Conditional-Statements\AnymalType\bin\Debug\AnymalType.exe.config
+C:\Users\Cekov\source\repos\Conditional-Statements\AnymalType\bin\Debug\AnymalType.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\AnymalType\bin\Debug\AnymalType.pdb
+C:\Users\Cekov\source\repos\Conditional-Statements\AnymalType\obj\Debug\AnymalType.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\AnymalType\obj\Debug\AnymalType.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\AnymalType\obj\Debug\AnymalType.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\AnymalType\obj\Debug\AnymalType.pdb

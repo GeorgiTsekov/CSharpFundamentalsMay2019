@@ -1,0 +1,10 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\bin\Debug\netcoreapp2.1\EvenNumber.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\bin\Debug\netcoreapp2.1\EvenNumber.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\bin\Debug\netcoreapp2.1\EvenNumber.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\bin\Debug\netcoreapp2.1\EvenNumber.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\bin\Debug\netcoreapp2.1\EvenNumber.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\obj\Debug\netcoreapp2.1\EvenNumber.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\obj\Debug\netcoreapp2.1\EvenNumber.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\obj\Debug\netcoreapp2.1\EvenNumber.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\obj\Debug\netcoreapp2.1\EvenNumber.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\EvenNumber\obj\Debug\netcoreapp2.1\EvenNumber.pdb

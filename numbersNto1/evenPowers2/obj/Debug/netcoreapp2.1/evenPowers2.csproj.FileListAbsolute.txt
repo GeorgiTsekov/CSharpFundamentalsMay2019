@@ -1,0 +1,10 @@
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\bin\Debug\netcoreapp2.1\evenPowers2.deps.json
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\bin\Debug\netcoreapp2.1\evenPowers2.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\bin\Debug\netcoreapp2.1\evenPowers2.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\bin\Debug\netcoreapp2.1\evenPowers2.dll
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\bin\Debug\netcoreapp2.1\evenPowers2.pdb
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\obj\Debug\netcoreapp2.1\evenPowers2.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\obj\Debug\netcoreapp2.1\evenPowers2.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\obj\Debug\netcoreapp2.1\evenPowers2.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\obj\Debug\netcoreapp2.1\evenPowers2.dll
+c:\users\tmp\source\repos\numbersNto1\evenPowers2\obj\Debug\netcoreapp2.1\evenPowers2.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.deps.json
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.runtimeconfig.json
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.dll
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\bin\Debug\netcoreapp2.1\CookingMasterClass.pdb
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.dll
+C:\Dev\TechModul\MidExam02March20019\CookingMasterClass\obj\Debug\netcoreapp2.1\CookingMasterClass.pdb

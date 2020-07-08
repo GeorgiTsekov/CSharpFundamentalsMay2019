@@ -1,0 +1,6 @@
+C:\Users\Cekov\source\repos\Conditional-Statements\EqualNumbers\obj\Debug\EqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+C:\Users\Cekov\source\repos\Conditional-Statements\EqualNumbers\bin\Debug\EqualNumbers.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\EqualNumbers\bin\Debug\EqualNumbers.pdb
+C:\Users\Cekov\source\repos\Conditional-Statements\EqualNumbers\obj\Debug\EqualNumbers.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\EqualNumbers\obj\Debug\EqualNumbers.pdb

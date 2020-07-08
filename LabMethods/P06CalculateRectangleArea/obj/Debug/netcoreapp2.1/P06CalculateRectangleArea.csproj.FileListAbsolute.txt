@@ -1,0 +1,11 @@
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\bin\Debug\netcoreapp2.1\P06CalculateRectangleArea.deps.json
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\bin\Debug\netcoreapp2.1\P06CalculateRectangleArea.runtimeconfig.json
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\bin\Debug\netcoreapp2.1\P06CalculateRectangleArea.runtimeconfig.dev.json
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\bin\Debug\netcoreapp2.1\P06CalculateRectangleArea.dll
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\bin\Debug\netcoreapp2.1\P06CalculateRectangleArea.pdb
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\obj\Debug\netcoreapp2.1\P06CalculateRectangleArea.csprojAssemblyReference.cache
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\obj\Debug\netcoreapp2.1\P06CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\obj\Debug\netcoreapp2.1\P06CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\obj\Debug\netcoreapp2.1\P06CalculateRectangleArea.AssemblyInfo.cs
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\obj\Debug\netcoreapp2.1\P06CalculateRectangleArea.dll
+C:\Dev\TechModul\LabMethods\P06CalculateRectangleArea\obj\Debug\netcoreapp2.1\P06CalculateRectangleArea.pdb

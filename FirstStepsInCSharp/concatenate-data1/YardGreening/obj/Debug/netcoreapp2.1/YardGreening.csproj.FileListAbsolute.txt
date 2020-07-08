@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.dll
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\bin\Debug\netcoreapp2.1\YardGreening.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.dll
+C:\Users\Cekov\source\repos\concatenate-data1\YardGreening\obj\Debug\netcoreapp2.1\YardGreening.pdb

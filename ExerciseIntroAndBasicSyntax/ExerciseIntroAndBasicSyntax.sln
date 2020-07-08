@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ages", "ExerciseIntroAndBasicSyntax\ages.csproj", "{CDD61C16-CB8D-40B5-9048-C1AD9A3EFA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divison", "Divison\Divison.csproj", "{91CA60D6-3EF7-44CC-A8B8-EC2148FD77A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD61C16-CB8D-40B5-9048-C1AD9A3EFA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD61C16-CB8D-40B5-9048-C1AD9A3EFA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD61C16-CB8D-40B5-9048-C1AD9A3EFA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD61C16-CB8D-40B5-9048-C1AD9A3EFA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CA60D6-3EF7-44CC-A8B8-EC2148FD77A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CA60D6-3EF7-44CC-A8B8-EC2148FD77A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CA60D6-3EF7-44CC-A8B8-EC2148FD77A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CA60D6-3EF7-44CC-A8B8-EC2148FD77A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB85320-E4F4-441C-8D8E-83CD9176E62E}
+	EndGlobalSection
+EndGlobal

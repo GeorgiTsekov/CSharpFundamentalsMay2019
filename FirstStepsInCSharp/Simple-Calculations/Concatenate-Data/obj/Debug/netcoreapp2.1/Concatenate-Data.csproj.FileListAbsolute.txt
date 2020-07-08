@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp2.1\Concatenate-Data.deps.json
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp2.1\Concatenate-Data.runtimeconfig.json
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp2.1\Concatenate-Data.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp2.1\Concatenate-Data.dll
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\netcoreapp2.1\Concatenate-Data.pdb
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp2.1\Concatenate-Data.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp2.1\Concatenate-Data.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp2.1\Concatenate-Data.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp2.1\Concatenate-Data.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp2.1\Concatenate-Data.dll
+C:\Users\Cekov\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\netcoreapp2.1\Concatenate-Data.pdb

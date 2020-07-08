@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\bin\Debug\netcoreapp2.1\P05AddAndSubstract.deps.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\bin\Debug\netcoreapp2.1\P05AddAndSubstract.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\bin\Debug\netcoreapp2.1\P05AddAndSubstract.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\bin\Debug\netcoreapp2.1\P05AddAndSubstract.dll
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\bin\Debug\netcoreapp2.1\P05AddAndSubstract.pdb
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\obj\Debug\netcoreapp2.1\P05AddAndSubstract.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\obj\Debug\netcoreapp2.1\P05AddAndSubstract.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\obj\Debug\netcoreapp2.1\P05AddAndSubstract.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\obj\Debug\netcoreapp2.1\P05AddAndSubstract.dll
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\obj\Debug\netcoreapp2.1\P05AddAndSubstract.pdb
+C:\Users\Tmp\source\repos\TechModulTest\MethodsExercise\P05AddAndSubstract\obj\Debug\netcoreapp2.1\P05AddAndSubstract.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\bin\Debug\netcoreapp2.1\P09GreaterOfTwoValues.deps.json
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\bin\Debug\netcoreapp2.1\P09GreaterOfTwoValues.runtimeconfig.json
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\bin\Debug\netcoreapp2.1\P09GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\bin\Debug\netcoreapp2.1\P09GreaterOfTwoValues.dll
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\bin\Debug\netcoreapp2.1\P09GreaterOfTwoValues.pdb
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\obj\Debug\netcoreapp2.1\P09GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\obj\Debug\netcoreapp2.1\P09GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\obj\Debug\netcoreapp2.1\P09GreaterOfTwoValues.AssemblyInfo.cs
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\obj\Debug\netcoreapp2.1\P09GreaterOfTwoValues.dll
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\obj\Debug\netcoreapp2.1\P09GreaterOfTwoValues.pdb
+C:\Dev\TechModul\LabMethods\P09GreaterOfTwoValues\obj\Debug\netcoreapp2.1\P09GreaterOfTwoValues.csprojAssemblyReference.cache

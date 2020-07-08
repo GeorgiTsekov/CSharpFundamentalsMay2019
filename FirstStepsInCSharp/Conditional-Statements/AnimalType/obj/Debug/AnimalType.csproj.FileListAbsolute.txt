@@ -1,0 +1,7 @@
+C:\Users\Cekov\source\repos\Conditional-Statements\AnimalType\obj\Debug\AnimalType.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\AnimalType\obj\Debug\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\AnimalType\bin\Debug\AnimalType.exe.config
+C:\Users\Cekov\source\repos\Conditional-Statements\AnimalType\bin\Debug\AnimalType.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\AnimalType\bin\Debug\AnimalType.pdb
+C:\Users\Cekov\source\repos\Conditional-Statements\AnimalType\obj\Debug\AnimalType.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\AnimalType\obj\Debug\AnimalType.pdb

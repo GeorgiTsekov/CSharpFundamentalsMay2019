@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.deps.json
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.dll
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\bin\Debug\netcoreapp2.1\P04ArrayRotation.pdb
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.dll
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.pdb
+C:\Dev\TechModul\ArrayExerecises\P04ArrayRotation\obj\Debug\netcoreapp2.1\P04ArrayRotation.csprojAssemblyReference.cache

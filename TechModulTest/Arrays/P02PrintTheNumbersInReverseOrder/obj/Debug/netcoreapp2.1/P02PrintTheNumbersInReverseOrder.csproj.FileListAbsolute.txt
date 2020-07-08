@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\bin\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.deps.json
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\bin\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\bin\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\bin\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.dll
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\bin\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.pdb
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\obj\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\obj\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\obj\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\obj\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\obj\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.dll
+C:\Users\Tmp\source\repos\TechModulTest\Arrays\P02PrintTheNumbersInReverseOrder\obj\Debug\netcoreapp2.1\P02PrintTheNumbersInReverseOrder.pdb

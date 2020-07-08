@@ -1,0 +1,10 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\bin\Debug\netcoreapp2.1\MultiplicationTable.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\MultiplicationTable\obj\Debug\netcoreapp2.1\MultiplicationTable.pdb

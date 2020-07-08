@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\bin\Debug\netcoreapp2.1\MixedUpLIst.deps.json
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\bin\Debug\netcoreapp2.1\MixedUpLIst.runtimeconfig.json
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\bin\Debug\netcoreapp2.1\MixedUpLIst.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\bin\Debug\netcoreapp2.1\MixedUpLIst.dll
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\bin\Debug\netcoreapp2.1\MixedUpLIst.pdb
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\obj\Debug\netcoreapp2.1\MixedUpLIst.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\obj\Debug\netcoreapp2.1\MixedUpLIst.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\obj\Debug\netcoreapp2.1\MixedUpLIst.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\obj\Debug\netcoreapp2.1\MixedUpLIst.AssemblyInfo.cs
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\obj\Debug\netcoreapp2.1\MixedUpLIst.dll
+C:\Dev\TechModul\MidExamTest\MidExamTest\kamino\obj\Debug\netcoreapp2.1\MixedUpLIst.pdb

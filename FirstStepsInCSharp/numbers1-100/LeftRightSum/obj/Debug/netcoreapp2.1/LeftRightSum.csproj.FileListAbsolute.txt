@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\bin\Debug\netcoreapp2.1\LeftRightSum.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\bin\Debug\netcoreapp2.1\LeftRightSum.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\bin\Debug\netcoreapp2.1\LeftRightSum.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\bin\Debug\netcoreapp2.1\LeftRightSum.dll
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\bin\Debug\netcoreapp2.1\LeftRightSum.pdb
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\obj\Debug\netcoreapp2.1\LeftRightSum.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\obj\Debug\netcoreapp2.1\LeftRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\obj\Debug\netcoreapp2.1\LeftRightSum.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\obj\Debug\netcoreapp2.1\LeftRightSum.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\obj\Debug\netcoreapp2.1\LeftRightSum.dll
+C:\Users\Cekov\source\repos\numbers1-100\LeftRightSum\obj\Debug\netcoreapp2.1\LeftRightSum.pdb

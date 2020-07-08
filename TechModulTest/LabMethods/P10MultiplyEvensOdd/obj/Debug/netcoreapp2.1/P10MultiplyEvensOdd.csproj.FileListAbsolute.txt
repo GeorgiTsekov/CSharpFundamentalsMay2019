@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\bin\Debug\netcoreapp2.1\P10MultiplyEvensOdd.deps.json
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\bin\Debug\netcoreapp2.1\P10MultiplyEvensOdd.runtimeconfig.json
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\bin\Debug\netcoreapp2.1\P10MultiplyEvensOdd.runtimeconfig.dev.json
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\bin\Debug\netcoreapp2.1\P10MultiplyEvensOdd.dll
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\bin\Debug\netcoreapp2.1\P10MultiplyEvensOdd.pdb
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\obj\Debug\netcoreapp2.1\P10MultiplyEvensOdd.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\obj\Debug\netcoreapp2.1\P10MultiplyEvensOdd.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\obj\Debug\netcoreapp2.1\P10MultiplyEvensOdd.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\obj\Debug\netcoreapp2.1\P10MultiplyEvensOdd.AssemblyInfo.cs
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\obj\Debug\netcoreapp2.1\P10MultiplyEvensOdd.dll
+C:\Dev\TechModulTest\LabMethods\P10MultiplyEvensOdd\obj\Debug\netcoreapp2.1\P10MultiplyEvensOdd.pdb

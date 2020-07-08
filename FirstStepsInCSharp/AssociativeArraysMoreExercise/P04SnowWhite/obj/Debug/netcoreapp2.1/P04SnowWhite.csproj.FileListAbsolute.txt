@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\bin\Debug\netcoreapp2.1\P04SnowWhite.deps.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\bin\Debug\netcoreapp2.1\P04SnowWhite.runtimeconfig.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\bin\Debug\netcoreapp2.1\P04SnowWhite.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\bin\Debug\netcoreapp2.1\P04SnowWhite.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\bin\Debug\netcoreapp2.1\P04SnowWhite.pdb
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\obj\Debug\netcoreapp2.1\P04SnowWhite.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\obj\Debug\netcoreapp2.1\P04SnowWhite.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\obj\Debug\netcoreapp2.1\P04SnowWhite.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\obj\Debug\netcoreapp2.1\P04SnowWhite.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\obj\Debug\netcoreapp2.1\P04SnowWhite.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P04SnowWhite\obj\Debug\netcoreapp2.1\P04SnowWhite.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\matrix\nestedLoops\obj\Debug\netcoreapp2.1\nestedLoops.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\matrix\nestedLoops\obj\Debug\netcoreapp2.1\nestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\nestedLoops\obj\Debug\netcoreapp2.1\nestedLoops.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\nestedLoops\obj\Debug\netcoreapp2.1\nestedLoops.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\nestedLoops\bin\Debug\netcoreapp2.1\nestedLoops.deps.json
+C:\Users\Cekov\source\repos\matrix\nestedLoops\bin\Debug\netcoreapp2.1\nestedLoops.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\nestedLoops\bin\Debug\netcoreapp2.1\nestedLoops.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\nestedLoops\bin\Debug\netcoreapp2.1\nestedLoops.dll
+C:\Users\Cekov\source\repos\matrix\nestedLoops\bin\Debug\netcoreapp2.1\nestedLoops.pdb
+C:\Users\Cekov\source\repos\matrix\nestedLoops\obj\Debug\netcoreapp2.1\nestedLoops.dll
+C:\Users\Cekov\source\repos\matrix\nestedLoops\obj\Debug\netcoreapp2.1\nestedLoops.pdb

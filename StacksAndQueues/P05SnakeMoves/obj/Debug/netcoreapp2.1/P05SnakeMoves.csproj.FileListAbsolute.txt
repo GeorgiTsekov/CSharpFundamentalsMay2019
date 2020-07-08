@@ -1,0 +1,10 @@
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\bin\Debug\netcoreapp2.1\P05SnakeMoves.deps.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\bin\Debug\netcoreapp2.1\P05SnakeMoves.runtimeconfig.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\bin\Debug\netcoreapp2.1\P05SnakeMoves.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\bin\Debug\netcoreapp2.1\P05SnakeMoves.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\bin\Debug\netcoreapp2.1\P05SnakeMoves.pdb
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\obj\Debug\netcoreapp2.1\P05SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\obj\Debug\netcoreapp2.1\P05SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\obj\Debug\netcoreapp2.1\P05SnakeMoves.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\obj\Debug\netcoreapp2.1\P05SnakeMoves.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P05SnakeMoves\obj\Debug\netcoreapp2.1\P05SnakeMoves.pdb

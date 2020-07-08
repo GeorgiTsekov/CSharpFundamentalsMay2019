@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.1\P02RandomizeWords.deps.json
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.1\P02RandomizeWords.runtimeconfig.json
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.1\P02RandomizeWords.runtimeconfig.dev.json
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.1\P02RandomizeWords.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\bin\Debug\netcoreapp2.1\P02RandomizeWords.pdb
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.1\P02RandomizeWords.csprojAssemblyReference.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.1\P02RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.1\P02RandomizeWords.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.1\P02RandomizeWords.AssemblyInfo.cs
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.1\P02RandomizeWords.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\RandomizeWords\obj\Debug\netcoreapp2.1\P02RandomizeWords.pdb

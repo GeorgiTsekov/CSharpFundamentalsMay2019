@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\bin\Debug\netcoreapp2.1\P01ExtractPersonInfo.deps.json
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\bin\Debug\netcoreapp2.1\P01ExtractPersonInfo.runtimeconfig.json
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\bin\Debug\netcoreapp2.1\P01ExtractPersonInfo.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\bin\Debug\netcoreapp2.1\P01ExtractPersonInfo.dll
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\bin\Debug\netcoreapp2.1\P01ExtractPersonInfo.pdb
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\obj\Debug\netcoreapp2.1\P01ExtractPersonInfo.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\obj\Debug\netcoreapp2.1\P01ExtractPersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\obj\Debug\netcoreapp2.1\P01ExtractPersonInfo.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\obj\Debug\netcoreapp2.1\P01ExtractPersonInfo.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\obj\Debug\netcoreapp2.1\P01ExtractPersonInfo.dll
+C:\Users\Cekov\source\repos\TextProcessingMoreExe\P01ExtractPersonInfo\obj\Debug\netcoreapp2.1\P01ExtractPersonInfo.pdb

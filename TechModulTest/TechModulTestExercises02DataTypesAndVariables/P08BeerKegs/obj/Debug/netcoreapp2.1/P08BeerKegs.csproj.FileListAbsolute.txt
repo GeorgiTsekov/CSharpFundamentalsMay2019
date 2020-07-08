@@ -1,0 +1,10 @@
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\bin\Debug\netcoreapp2.1\P08BeerKegs.deps.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\bin\Debug\netcoreapp2.1\P08BeerKegs.runtimeconfig.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\bin\Debug\netcoreapp2.1\P08BeerKegs.runtimeconfig.dev.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\bin\Debug\netcoreapp2.1\P08BeerKegs.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\bin\Debug\netcoreapp2.1\P08BeerKegs.pdb
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\obj\Debug\netcoreapp2.1\P08BeerKegs.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\obj\Debug\netcoreapp2.1\P08BeerKegs.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\obj\Debug\netcoreapp2.1\P08BeerKegs.AssemblyInfo.cs
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\obj\Debug\netcoreapp2.1\P08BeerKegs.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P08BeerKegs\obj\Debug\netcoreapp2.1\P08BeerKegs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\bin\Debug\netcoreapp2.1\examPreparation.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\bin\Debug\netcoreapp2.1\examPreparation.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\bin\Debug\netcoreapp2.1\examPreparation.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\bin\Debug\netcoreapp2.1\examPreparation.dll
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\bin\Debug\netcoreapp2.1\examPreparation.pdb
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\obj\Debug\netcoreapp2.1\examPreparation.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\obj\Debug\netcoreapp2.1\examPreparation.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\obj\Debug\netcoreapp2.1\examPreparation.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\obj\Debug\netcoreapp2.1\examPreparation.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\obj\Debug\netcoreapp2.1\examPreparation.dll
+C:\Users\Cekov\source\repos\stadionIncom\examPreparation\obj\Debug\netcoreapp2.1\examPreparation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.deps.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\bin\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.pdb
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P05RemoveNegativesAndReverse\obj\Debug\netcoreapp2.1\P05RemoveNegativesAndReverse.pdb

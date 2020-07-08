@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\bin\Debug\netcoreapp2.1\P06SongQueue.deps.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\bin\Debug\netcoreapp2.1\P06SongQueue.runtimeconfig.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\bin\Debug\netcoreapp2.1\P06SongQueue.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\bin\Debug\netcoreapp2.1\P06SongQueue.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\bin\Debug\netcoreapp2.1\P06SongQueue.pdb
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\obj\Debug\netcoreapp2.1\P06SongQueue.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\obj\Debug\netcoreapp2.1\P06SongQueue.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\obj\Debug\netcoreapp2.1\P06SongQueue.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\obj\Debug\netcoreapp2.1\P06SongQueue.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\obj\Debug\netcoreapp2.1\P06SongQueue.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P06SongQueue\obj\Debug\netcoreapp2.1\P06SongQueue.pdb

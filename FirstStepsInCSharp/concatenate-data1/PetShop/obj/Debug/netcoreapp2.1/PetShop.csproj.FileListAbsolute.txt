@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\obj\Debug\netcoreapp2.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\obj\Debug\netcoreapp2.1\PetShop.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\bin\Debug\netcoreapp2.1\PetShop.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\bin\Debug\netcoreapp2.1\PetShop.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\bin\Debug\netcoreapp2.1\PetShop.dll
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\bin\Debug\netcoreapp2.1\PetShop.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\obj\Debug\netcoreapp2.1\PetShop.dll
+C:\Users\Cekov\source\repos\concatenate-data1\PetShop\obj\Debug\netcoreapp2.1\PetShop.pdb

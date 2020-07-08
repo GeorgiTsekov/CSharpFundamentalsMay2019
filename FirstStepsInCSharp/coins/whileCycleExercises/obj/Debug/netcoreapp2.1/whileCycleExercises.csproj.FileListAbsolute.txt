@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\bin\Debug\netcoreapp2.1\whileCycleExercises.deps.json
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\bin\Debug\netcoreapp2.1\whileCycleExercises.runtimeconfig.json
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\bin\Debug\netcoreapp2.1\whileCycleExercises.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\bin\Debug\netcoreapp2.1\whileCycleExercises.dll
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\bin\Debug\netcoreapp2.1\whileCycleExercises.pdb
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\obj\Debug\netcoreapp2.1\whileCycleExercises.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\obj\Debug\netcoreapp2.1\whileCycleExercises.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\obj\Debug\netcoreapp2.1\whileCycleExercises.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\obj\Debug\netcoreapp2.1\whileCycleExercises.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\obj\Debug\netcoreapp2.1\whileCycleExercises.dll
+C:\Users\Cekov\source\repos\coins\whileCycleExercises\obj\Debug\netcoreapp2.1\whileCycleExercises.pdb

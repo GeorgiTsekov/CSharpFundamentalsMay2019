@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.deps.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.pdb
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\P01SumAdjacentEqualNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\bin\Debug\netcoreapp2.1\footballSuvenirs.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\bin\Debug\netcoreapp2.1\footballSuvenirs.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\bin\Debug\netcoreapp2.1\footballSuvenirs.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\bin\Debug\netcoreapp2.1\footballSuvenirs.dll
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\bin\Debug\netcoreapp2.1\footballSuvenirs.pdb
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\obj\Debug\netcoreapp2.1\footballSuvenirs.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\obj\Debug\netcoreapp2.1\footballSuvenirs.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\obj\Debug\netcoreapp2.1\footballSuvenirs.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\obj\Debug\netcoreapp2.1\footballSuvenirs.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\obj\Debug\netcoreapp2.1\footballSuvenirs.dll
+C:\Users\Cekov\source\repos\stadionIncom\footballSuvenirs\obj\Debug\netcoreapp2.1\footballSuvenirs.pdb

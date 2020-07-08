@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.deps.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.dll
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.pdb
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.dll
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.pdb

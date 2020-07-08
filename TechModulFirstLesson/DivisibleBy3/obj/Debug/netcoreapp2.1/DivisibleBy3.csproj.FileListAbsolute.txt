@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\bin\Debug\netcoreapp2.1\DivisibleBy3.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\DivisibleBy3\obj\Debug\netcoreapp2.1\DivisibleBy3.csprojAssemblyReference.cache

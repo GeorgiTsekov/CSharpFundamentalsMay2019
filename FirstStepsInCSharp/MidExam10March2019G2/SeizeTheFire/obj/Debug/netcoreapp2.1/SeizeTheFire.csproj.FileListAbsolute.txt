@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\bin\Debug\netcoreapp2.1\SeizeTheFire.deps.json
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\bin\Debug\netcoreapp2.1\SeizeTheFire.runtimeconfig.json
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\bin\Debug\netcoreapp2.1\SeizeTheFire.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\bin\Debug\netcoreapp2.1\SeizeTheFire.dll
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\bin\Debug\netcoreapp2.1\SeizeTheFire.pdb
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\obj\Debug\netcoreapp2.1\SeizeTheFire.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\obj\Debug\netcoreapp2.1\SeizeTheFire.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\obj\Debug\netcoreapp2.1\SeizeTheFire.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\obj\Debug\netcoreapp2.1\SeizeTheFire.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\obj\Debug\netcoreapp2.1\SeizeTheFire.dll
+C:\Users\Cekov\source\repos\MidExam10March2019G2\SeizeTheFire\obj\Debug\netcoreapp2.1\SeizeTheFire.pdb

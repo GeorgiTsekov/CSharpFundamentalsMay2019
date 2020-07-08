@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\bin\Debug\netcoreapp2.1\ticketCombination.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\bin\Debug\netcoreapp2.1\ticketCombination.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\bin\Debug\netcoreapp2.1\ticketCombination.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\bin\Debug\netcoreapp2.1\ticketCombination.dll
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\bin\Debug\netcoreapp2.1\ticketCombination.pdb
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\obj\Debug\netcoreapp2.1\ticketCombination.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\obj\Debug\netcoreapp2.1\ticketCombination.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\obj\Debug\netcoreapp2.1\ticketCombination.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\obj\Debug\netcoreapp2.1\ticketCombination.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\obj\Debug\netcoreapp2.1\ticketCombination.dll
+C:\Users\Cekov\source\repos\stadionIncom\ticketCombination\obj\Debug\netcoreapp2.1\ticketCombination.pdb

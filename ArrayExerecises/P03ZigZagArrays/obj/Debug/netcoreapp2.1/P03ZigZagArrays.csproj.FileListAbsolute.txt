@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\bin\Debug\netcoreapp2.1\P03ZigZagArrays.deps.json
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\bin\Debug\netcoreapp2.1\P03ZigZagArrays.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\bin\Debug\netcoreapp2.1\P03ZigZagArrays.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\bin\Debug\netcoreapp2.1\P03ZigZagArrays.dll
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\bin\Debug\netcoreapp2.1\P03ZigZagArrays.pdb
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\obj\Debug\netcoreapp2.1\P03ZigZagArrays.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\obj\Debug\netcoreapp2.1\P03ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\obj\Debug\netcoreapp2.1\P03ZigZagArrays.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\obj\Debug\netcoreapp2.1\P03ZigZagArrays.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\obj\Debug\netcoreapp2.1\P03ZigZagArrays.dll
+C:\Dev\TechModul\ArrayExerecises\P03ZigZagArrays\obj\Debug\netcoreapp2.1\P03ZigZagArrays.pdb

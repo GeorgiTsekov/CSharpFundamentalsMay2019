@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\bin\Debug\netcoreapp2.1\P06BombTheBasement.deps.json
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\bin\Debug\netcoreapp2.1\P06BombTheBasement.runtimeconfig.json
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\bin\Debug\netcoreapp2.1\P06BombTheBasement.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\bin\Debug\netcoreapp2.1\P06BombTheBasement.dll
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\bin\Debug\netcoreapp2.1\P06BombTheBasement.pdb
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\obj\Debug\netcoreapp2.1\P06BombTheBasement.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\obj\Debug\netcoreapp2.1\P06BombTheBasement.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\obj\Debug\netcoreapp2.1\P06BombTheBasement.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\obj\Debug\netcoreapp2.1\P06BombTheBasement.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\obj\Debug\netcoreapp2.1\P06BombTheBasement.dll
+C:\Users\Tmp\source\repos\MultidimensionalArraysExe\P06BombTheBasement\obj\Debug\netcoreapp2.1\P06BombTheBasement.pdb

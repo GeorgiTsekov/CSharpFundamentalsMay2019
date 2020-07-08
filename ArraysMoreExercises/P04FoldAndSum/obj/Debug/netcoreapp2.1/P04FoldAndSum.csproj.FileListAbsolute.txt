@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\bin\Debug\netcoreapp2.1\P04FoldAndSum.deps.json
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\bin\Debug\netcoreapp2.1\P04FoldAndSum.runtimeconfig.json
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\bin\Debug\netcoreapp2.1\P04FoldAndSum.runtimeconfig.dev.json
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\bin\Debug\netcoreapp2.1\P04FoldAndSum.dll
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\bin\Debug\netcoreapp2.1\P04FoldAndSum.pdb
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\obj\Debug\netcoreapp2.1\P04FoldAndSum.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\obj\Debug\netcoreapp2.1\P04FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\obj\Debug\netcoreapp2.1\P04FoldAndSum.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\obj\Debug\netcoreapp2.1\P04FoldAndSum.AssemblyInfo.cs
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\obj\Debug\netcoreapp2.1\P04FoldAndSum.dll
+C:\Dev\TechModul\ArraysMoreExercises\P04FoldAndSum\obj\Debug\netcoreapp2.1\P04FoldAndSum.pdb

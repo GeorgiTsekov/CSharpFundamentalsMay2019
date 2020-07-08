@@ -1,0 +1,10 @@
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\bin\Debug\netcoreapp2.1\P04ReverseArrayOfString.deps.json
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\bin\Debug\netcoreapp2.1\P04ReverseArrayOfString.runtimeconfig.json
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\bin\Debug\netcoreapp2.1\P04ReverseArrayOfString.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\bin\Debug\netcoreapp2.1\P04ReverseArrayOfString.dll
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\bin\Debug\netcoreapp2.1\P04ReverseArrayOfString.pdb
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\obj\Debug\netcoreapp2.1\P04ReverseArrayOfString.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\obj\Debug\netcoreapp2.1\P04ReverseArrayOfString.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\obj\Debug\netcoreapp2.1\P04ReverseArrayOfString.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\obj\Debug\netcoreapp2.1\P04ReverseArrayOfString.dll
+C:\Dev\TechModul\ArrayLab\P04ReverseArrayOfString\obj\Debug\netcoreapp2.1\P04ReverseArrayOfString.pdb

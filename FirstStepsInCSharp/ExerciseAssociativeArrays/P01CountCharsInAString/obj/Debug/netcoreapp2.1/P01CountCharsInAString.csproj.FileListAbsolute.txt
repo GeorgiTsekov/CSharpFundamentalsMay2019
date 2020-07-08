@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\bin\Debug\netcoreapp2.1\P01CountCharsInAString.deps.json
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\bin\Debug\netcoreapp2.1\P01CountCharsInAString.runtimeconfig.json
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\bin\Debug\netcoreapp2.1\P01CountCharsInAString.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\bin\Debug\netcoreapp2.1\P01CountCharsInAString.dll
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\bin\Debug\netcoreapp2.1\P01CountCharsInAString.pdb
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\obj\Debug\netcoreapp2.1\P01CountCharsInAString.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\obj\Debug\netcoreapp2.1\P01CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\obj\Debug\netcoreapp2.1\P01CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\obj\Debug\netcoreapp2.1\P01CountCharsInAString.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\obj\Debug\netcoreapp2.1\P01CountCharsInAString.dll
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P01CountCharsInAString\obj\Debug\netcoreapp2.1\P01CountCharsInAString.pdb

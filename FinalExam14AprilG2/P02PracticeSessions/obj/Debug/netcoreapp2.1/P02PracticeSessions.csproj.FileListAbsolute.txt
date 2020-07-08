@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\bin\Debug\netcoreapp2.1\P02PracticeSessions.deps.json
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\bin\Debug\netcoreapp2.1\P02PracticeSessions.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\bin\Debug\netcoreapp2.1\P02PracticeSessions.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\bin\Debug\netcoreapp2.1\P02PracticeSessions.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\bin\Debug\netcoreapp2.1\P02PracticeSessions.pdb
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\obj\Debug\netcoreapp2.1\P02PracticeSessions.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\obj\Debug\netcoreapp2.1\P02PracticeSessions.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\obj\Debug\netcoreapp2.1\P02PracticeSessions.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\obj\Debug\netcoreapp2.1\P02PracticeSessions.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\obj\Debug\netcoreapp2.1\P02PracticeSessions.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExam14AprilG2\P02PracticeSessions\obj\Debug\netcoreapp2.1\P02PracticeSessions.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\bin\Debug\netcoreapp2.1\P04MorseCodeTranslator.deps.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\bin\Debug\netcoreapp2.1\P04MorseCodeTranslator.runtimeconfig.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\bin\Debug\netcoreapp2.1\P04MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\bin\Debug\netcoreapp2.1\P04MorseCodeTranslator.dll
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\bin\Debug\netcoreapp2.1\P04MorseCodeTranslator.pdb
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\obj\Debug\netcoreapp2.1\P04MorseCodeTranslator.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\obj\Debug\netcoreapp2.1\P04MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\obj\Debug\netcoreapp2.1\P04MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\obj\Debug\netcoreapp2.1\P04MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\obj\Debug\netcoreapp2.1\P04MorseCodeTranslator.dll
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P04MorseCodeTranslator\obj\Debug\netcoreapp2.1\P04MorseCodeTranslator.pdb

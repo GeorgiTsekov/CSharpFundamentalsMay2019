@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\bin\Debug\netcoreapp2.1\vowelsSum.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\bin\Debug\netcoreapp2.1\vowelsSum.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\bin\Debug\netcoreapp2.1\vowelsSum.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\bin\Debug\netcoreapp2.1\vowelsSum.dll
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\bin\Debug\netcoreapp2.1\vowelsSum.pdb
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\obj\Debug\netcoreapp2.1\vowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\obj\Debug\netcoreapp2.1\vowelsSum.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\obj\Debug\netcoreapp2.1\vowelsSum.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\obj\Debug\netcoreapp2.1\vowelsSum.dll
+C:\Users\Cekov\source\repos\numbers1-100\vowelsSum\obj\Debug\netcoreapp2.1\vowelsSum.pdb

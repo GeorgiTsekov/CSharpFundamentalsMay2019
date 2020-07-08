@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\debug\debug\bin\Debug\netcoreapp2.1\debug.deps.json
+C:\Users\Cekov\source\repos\debug\debug\bin\Debug\netcoreapp2.1\debug.runtimeconfig.json
+C:\Users\Cekov\source\repos\debug\debug\bin\Debug\netcoreapp2.1\debug.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\debug\debug\bin\Debug\netcoreapp2.1\debug.dll
+C:\Users\Cekov\source\repos\debug\debug\bin\Debug\netcoreapp2.1\debug.pdb
+C:\Users\Cekov\source\repos\debug\debug\obj\Debug\netcoreapp2.1\debug.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\debug\debug\obj\Debug\netcoreapp2.1\debug.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\debug\debug\obj\Debug\netcoreapp2.1\debug.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\debug\debug\obj\Debug\netcoreapp2.1\debug.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\debug\debug\obj\Debug\netcoreapp2.1\debug.dll
+C:\Users\Cekov\source\repos\debug\debug\obj\Debug\netcoreapp2.1\debug.pdb

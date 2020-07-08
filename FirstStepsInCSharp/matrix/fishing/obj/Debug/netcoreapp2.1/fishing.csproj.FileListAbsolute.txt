@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\matrix\fishing\bin\Debug\netcoreapp2.1\fishing.deps.json
+C:\Users\Cekov\source\repos\matrix\fishing\bin\Debug\netcoreapp2.1\fishing.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\fishing\bin\Debug\netcoreapp2.1\fishing.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\fishing\bin\Debug\netcoreapp2.1\fishing.dll
+C:\Users\Cekov\source\repos\matrix\fishing\bin\Debug\netcoreapp2.1\fishing.pdb
+C:\Users\Cekov\source\repos\matrix\fishing\obj\Debug\netcoreapp2.1\fishing.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\matrix\fishing\obj\Debug\netcoreapp2.1\fishing.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\fishing\obj\Debug\netcoreapp2.1\fishing.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\fishing\obj\Debug\netcoreapp2.1\fishing.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\fishing\obj\Debug\netcoreapp2.1\fishing.dll
+C:\Users\Cekov\source\repos\matrix\fishing\obj\Debug\netcoreapp2.1\fishing.pdb

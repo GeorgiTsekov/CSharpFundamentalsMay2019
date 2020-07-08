@@ -1,0 +1,10 @@
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\bin\Debug\netcoreapp2.1\P02SumDigit.deps.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\bin\Debug\netcoreapp2.1\P02SumDigit.runtimeconfig.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\bin\Debug\netcoreapp2.1\P02SumDigit.runtimeconfig.dev.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\bin\Debug\netcoreapp2.1\P02SumDigit.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\bin\Debug\netcoreapp2.1\P02SumDigit.pdb
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\obj\Debug\netcoreapp2.1\P02SumDigit.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\obj\Debug\netcoreapp2.1\P02SumDigit.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\obj\Debug\netcoreapp2.1\P02SumDigit.AssemblyInfo.cs
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\obj\Debug\netcoreapp2.1\P02SumDigit.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P02SumDigit\obj\Debug\netcoreapp2.1\P02SumDigit.pdb

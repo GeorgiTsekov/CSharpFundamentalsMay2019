@@ -1,0 +1,11 @@
+C:\Dev\TechModul\LabMethods\P05Orders\bin\Debug\netcoreapp2.1\P05Orders.deps.json
+C:\Dev\TechModul\LabMethods\P05Orders\bin\Debug\netcoreapp2.1\P05Orders.runtimeconfig.json
+C:\Dev\TechModul\LabMethods\P05Orders\bin\Debug\netcoreapp2.1\P05Orders.runtimeconfig.dev.json
+C:\Dev\TechModul\LabMethods\P05Orders\bin\Debug\netcoreapp2.1\P05Orders.dll
+C:\Dev\TechModul\LabMethods\P05Orders\bin\Debug\netcoreapp2.1\P05Orders.pdb
+C:\Dev\TechModul\LabMethods\P05Orders\obj\Debug\netcoreapp2.1\P05Orders.csprojAssemblyReference.cache
+C:\Dev\TechModul\LabMethods\P05Orders\obj\Debug\netcoreapp2.1\P05Orders.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\LabMethods\P05Orders\obj\Debug\netcoreapp2.1\P05Orders.AssemblyInfoInputs.cache
+C:\Dev\TechModul\LabMethods\P05Orders\obj\Debug\netcoreapp2.1\P05Orders.AssemblyInfo.cs
+C:\Dev\TechModul\LabMethods\P05Orders\obj\Debug\netcoreapp2.1\P05Orders.dll
+C:\Dev\TechModul\LabMethods\P05Orders\obj\Debug\netcoreapp2.1\P05Orders.pdb

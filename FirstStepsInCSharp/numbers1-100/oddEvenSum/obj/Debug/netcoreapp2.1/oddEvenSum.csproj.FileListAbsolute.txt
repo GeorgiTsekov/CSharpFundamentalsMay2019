@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\bin\Debug\netcoreapp2.1\oddEvenSum.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\bin\Debug\netcoreapp2.1\oddEvenSum.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\bin\Debug\netcoreapp2.1\oddEvenSum.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\bin\Debug\netcoreapp2.1\oddEvenSum.dll
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\bin\Debug\netcoreapp2.1\oddEvenSum.pdb
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\obj\Debug\netcoreapp2.1\oddEvenSum.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\obj\Debug\netcoreapp2.1\oddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\obj\Debug\netcoreapp2.1\oddEvenSum.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\obj\Debug\netcoreapp2.1\oddEvenSum.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\obj\Debug\netcoreapp2.1\oddEvenSum.dll
+C:\Users\Cekov\source\repos\numbers1-100\oddEvenSum\obj\Debug\netcoreapp2.1\oddEvenSum.pdb

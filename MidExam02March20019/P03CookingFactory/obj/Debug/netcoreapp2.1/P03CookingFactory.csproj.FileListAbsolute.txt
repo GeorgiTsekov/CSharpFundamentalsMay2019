@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\bin\Debug\netcoreapp2.1\P03CookingFactory.deps.json
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\bin\Debug\netcoreapp2.1\P03CookingFactory.runtimeconfig.json
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\bin\Debug\netcoreapp2.1\P03CookingFactory.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\bin\Debug\netcoreapp2.1\P03CookingFactory.dll
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\bin\Debug\netcoreapp2.1\P03CookingFactory.pdb
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\obj\Debug\netcoreapp2.1\P03CookingFactory.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\obj\Debug\netcoreapp2.1\P03CookingFactory.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\obj\Debug\netcoreapp2.1\P03CookingFactory.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\obj\Debug\netcoreapp2.1\P03CookingFactory.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\obj\Debug\netcoreapp2.1\P03CookingFactory.dll
+C:\Dev\TechModul\MidExam02March20019\P03CookingFactory\obj\Debug\netcoreapp2.1\P03CookingFactory.pdb

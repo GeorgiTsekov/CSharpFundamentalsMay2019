@@ -1,0 +1,11 @@
+C:\Dev\TechModul\LabMethods\P08MathPower\bin\Debug\netcoreapp2.1\P08MathPower.deps.json
+C:\Dev\TechModul\LabMethods\P08MathPower\bin\Debug\netcoreapp2.1\P08MathPower.runtimeconfig.json
+C:\Dev\TechModul\LabMethods\P08MathPower\bin\Debug\netcoreapp2.1\P08MathPower.runtimeconfig.dev.json
+C:\Dev\TechModul\LabMethods\P08MathPower\bin\Debug\netcoreapp2.1\P08MathPower.dll
+C:\Dev\TechModul\LabMethods\P08MathPower\bin\Debug\netcoreapp2.1\P08MathPower.pdb
+C:\Dev\TechModul\LabMethods\P08MathPower\obj\Debug\netcoreapp2.1\P08MathPower.csprojAssemblyReference.cache
+C:\Dev\TechModul\LabMethods\P08MathPower\obj\Debug\netcoreapp2.1\P08MathPower.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\LabMethods\P08MathPower\obj\Debug\netcoreapp2.1\P08MathPower.AssemblyInfoInputs.cache
+C:\Dev\TechModul\LabMethods\P08MathPower\obj\Debug\netcoreapp2.1\P08MathPower.AssemblyInfo.cs
+C:\Dev\TechModul\LabMethods\P08MathPower\obj\Debug\netcoreapp2.1\P08MathPower.dll
+C:\Dev\TechModul\LabMethods\P08MathPower\obj\Debug\netcoreapp2.1\P08MathPower.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\bin\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.deps.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\bin\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\bin\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\bin\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\bin\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.pdb
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\obj\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\obj\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\obj\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\obj\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\obj\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P03TheIsleOfManTTRace\obj\Debug\netcoreapp2.1\P03TheIsleOfManTTRace.pdb

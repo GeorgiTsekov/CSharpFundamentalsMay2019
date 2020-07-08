@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\bin\Debug\netcoreapp2.1\P03RoundingNumbers.deps.json
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\bin\Debug\netcoreapp2.1\P03RoundingNumbers.runtimeconfig.json
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\bin\Debug\netcoreapp2.1\P03RoundingNumbers.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\bin\Debug\netcoreapp2.1\P03RoundingNumbers.dll
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\bin\Debug\netcoreapp2.1\P03RoundingNumbers.pdb
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\obj\Debug\netcoreapp2.1\P03RoundingNumbers.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\obj\Debug\netcoreapp2.1\P03RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\obj\Debug\netcoreapp2.1\P03RoundingNumbers.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\obj\Debug\netcoreapp2.1\P03RoundingNumbers.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\obj\Debug\netcoreapp2.1\P03RoundingNumbers.dll
+C:\Dev\TechModul\ArrayLab\P03RoundingNumbers\obj\Debug\netcoreapp2.1\P03RoundingNumbers.pdb

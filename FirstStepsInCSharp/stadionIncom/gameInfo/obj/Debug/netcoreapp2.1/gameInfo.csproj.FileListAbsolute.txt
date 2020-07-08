@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\bin\Debug\netcoreapp2.1\gameInfo.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\bin\Debug\netcoreapp2.1\gameInfo.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\bin\Debug\netcoreapp2.1\gameInfo.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\bin\Debug\netcoreapp2.1\gameInfo.dll
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\bin\Debug\netcoreapp2.1\gameInfo.pdb
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\obj\Debug\netcoreapp2.1\gameInfo.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\obj\Debug\netcoreapp2.1\gameInfo.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\obj\Debug\netcoreapp2.1\gameInfo.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\obj\Debug\netcoreapp2.1\gameInfo.dll
+C:\Users\Cekov\source\repos\stadionIncom\gameInfo\obj\Debug\netcoreapp2.1\gameInfo.pdb

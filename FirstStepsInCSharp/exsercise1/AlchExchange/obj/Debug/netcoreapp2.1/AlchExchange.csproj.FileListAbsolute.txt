@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\bin\Debug\netcoreapp2.1\AlchExchange.deps.json
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\bin\Debug\netcoreapp2.1\AlchExchange.runtimeconfig.json
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\bin\Debug\netcoreapp2.1\AlchExchange.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\bin\Debug\netcoreapp2.1\AlchExchange.dll
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\bin\Debug\netcoreapp2.1\AlchExchange.pdb
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\obj\Debug\netcoreapp2.1\AlchExchange.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\obj\Debug\netcoreapp2.1\AlchExchange.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\obj\Debug\netcoreapp2.1\AlchExchange.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\obj\Debug\netcoreapp2.1\AlchExchange.dll
+C:\Users\Cekov\source\repos\exsercise1\AlchExchange\obj\Debug\netcoreapp2.1\AlchExchange.pdb

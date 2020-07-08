@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\bin\Debug\netcoreapp2.1\forCycle.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\bin\Debug\netcoreapp2.1\forCycle.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\bin\Debug\netcoreapp2.1\forCycle.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\bin\Debug\netcoreapp2.1\forCycle.dll
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\bin\Debug\netcoreapp2.1\forCycle.pdb
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\obj\Debug\netcoreapp2.1\forCycle.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\obj\Debug\netcoreapp2.1\forCycle.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\obj\Debug\netcoreapp2.1\forCycle.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\obj\Debug\netcoreapp2.1\forCycle.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\obj\Debug\netcoreapp2.1\forCycle.dll
+C:\Users\Cekov\source\repos\numbers1-100\forCycle\obj\Debug\netcoreapp2.1\forCycle.pdb

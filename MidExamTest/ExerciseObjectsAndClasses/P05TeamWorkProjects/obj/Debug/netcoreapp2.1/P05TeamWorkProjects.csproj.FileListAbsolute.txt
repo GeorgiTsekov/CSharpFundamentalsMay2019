@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\bin\Debug\netcoreapp2.1\P05TeamWorkProjects.deps.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\bin\Debug\netcoreapp2.1\P05TeamWorkProjects.runtimeconfig.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\bin\Debug\netcoreapp2.1\P05TeamWorkProjects.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\bin\Debug\netcoreapp2.1\P05TeamWorkProjects.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\bin\Debug\netcoreapp2.1\P05TeamWorkProjects.pdb
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\obj\Debug\netcoreapp2.1\P05TeamWorkProjects.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\obj\Debug\netcoreapp2.1\P05TeamWorkProjects.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\obj\Debug\netcoreapp2.1\P05TeamWorkProjects.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\obj\Debug\netcoreapp2.1\P05TeamWorkProjects.AssemblyInfo.cs
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\obj\Debug\netcoreapp2.1\P05TeamWorkProjects.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P05TeamWorkProjects\obj\Debug\netcoreapp2.1\P05TeamWorkProjects.pdb

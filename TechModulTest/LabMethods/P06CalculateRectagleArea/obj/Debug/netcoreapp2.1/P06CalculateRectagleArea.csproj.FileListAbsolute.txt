@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\bin\Debug\netcoreapp2.1\P06CalculateRectagleArea.deps.json
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\bin\Debug\netcoreapp2.1\P06CalculateRectagleArea.runtimeconfig.json
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\bin\Debug\netcoreapp2.1\P06CalculateRectagleArea.runtimeconfig.dev.json
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\bin\Debug\netcoreapp2.1\P06CalculateRectagleArea.dll
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\bin\Debug\netcoreapp2.1\P06CalculateRectagleArea.pdb
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\obj\Debug\netcoreapp2.1\P06CalculateRectagleArea.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\obj\Debug\netcoreapp2.1\P06CalculateRectagleArea.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\obj\Debug\netcoreapp2.1\P06CalculateRectagleArea.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\obj\Debug\netcoreapp2.1\P06CalculateRectagleArea.AssemblyInfo.cs
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\obj\Debug\netcoreapp2.1\P06CalculateRectagleArea.dll
+C:\Dev\TechModulTest\LabMethods\P06CalculateRectagleArea\obj\Debug\netcoreapp2.1\P06CalculateRectagleArea.pdb

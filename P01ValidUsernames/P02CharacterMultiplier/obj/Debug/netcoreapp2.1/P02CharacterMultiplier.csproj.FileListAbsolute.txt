@@ -1,0 +1,10 @@
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\bin\Debug\netcoreapp2.1\P02CharacterMultiplier.deps.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\bin\Debug\netcoreapp2.1\P02CharacterMultiplier.runtimeconfig.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\bin\Debug\netcoreapp2.1\P02CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\bin\Debug\netcoreapp2.1\P02CharacterMultiplier.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\bin\Debug\netcoreapp2.1\P02CharacterMultiplier.pdb
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\obj\Debug\netcoreapp2.1\P02CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\obj\Debug\netcoreapp2.1\P02CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\obj\Debug\netcoreapp2.1\P02CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\obj\Debug\netcoreapp2.1\P02CharacterMultiplier.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P02CharacterMultiplier\obj\Debug\netcoreapp2.1\P02CharacterMultiplier.pdb

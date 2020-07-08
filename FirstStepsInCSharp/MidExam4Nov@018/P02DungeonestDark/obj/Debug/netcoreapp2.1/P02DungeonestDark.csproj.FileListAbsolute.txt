@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\bin\Debug\netcoreapp2.1\P02DungeonestDark.deps.json
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\bin\Debug\netcoreapp2.1\P02DungeonestDark.runtimeconfig.json
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\bin\Debug\netcoreapp2.1\P02DungeonestDark.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\bin\Debug\netcoreapp2.1\P02DungeonestDark.dll
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\bin\Debug\netcoreapp2.1\P02DungeonestDark.pdb
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\obj\Debug\netcoreapp2.1\P02DungeonestDark.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\obj\Debug\netcoreapp2.1\P02DungeonestDark.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\obj\Debug\netcoreapp2.1\P02DungeonestDark.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\obj\Debug\netcoreapp2.1\P02DungeonestDark.dll
+C:\Users\Cekov\source\repos\MidExam4Nov@018\P02DungeonestDark\obj\Debug\netcoreapp2.1\P02DungeonestDark.pdb

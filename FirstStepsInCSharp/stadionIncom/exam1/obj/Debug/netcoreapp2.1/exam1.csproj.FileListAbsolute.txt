@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\exam1\bin\Debug\netcoreapp2.1\exam1.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\exam1\bin\Debug\netcoreapp2.1\exam1.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\exam1\bin\Debug\netcoreapp2.1\exam1.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\exam1\bin\Debug\netcoreapp2.1\exam1.dll
+C:\Users\Cekov\source\repos\stadionIncom\exam1\bin\Debug\netcoreapp2.1\exam1.pdb
+C:\Users\Cekov\source\repos\stadionIncom\exam1\obj\Debug\netcoreapp2.1\exam1.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\exam1\obj\Debug\netcoreapp2.1\exam1.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\exam1\obj\Debug\netcoreapp2.1\exam1.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\exam1\obj\Debug\netcoreapp2.1\exam1.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\exam1\obj\Debug\netcoreapp2.1\exam1.dll
+C:\Users\Cekov\source\repos\stadionIncom\exam1\obj\Debug\netcoreapp2.1\exam1.pdb

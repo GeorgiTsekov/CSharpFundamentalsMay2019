@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.deps.json
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.runtimeconfig.json
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.dll
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\bin\Debug\netcoreapp2.1\CharityCampaign.pdb
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.dll
+C:\Users\Cekov\source\repos\exsercise1\CharityCampaign\obj\Debug\netcoreapp2.1\CharityCampaign.pdb

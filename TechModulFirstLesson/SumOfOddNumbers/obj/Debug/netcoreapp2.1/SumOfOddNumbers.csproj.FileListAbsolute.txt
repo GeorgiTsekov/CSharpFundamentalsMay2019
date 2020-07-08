@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\bin\Debug\netcoreapp2.1\SumOfOddNumbers.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\SumOfOddNumbers\obj\Debug\netcoreapp2.1\SumOfOddNumbers.csprojAssemblyReference.cache

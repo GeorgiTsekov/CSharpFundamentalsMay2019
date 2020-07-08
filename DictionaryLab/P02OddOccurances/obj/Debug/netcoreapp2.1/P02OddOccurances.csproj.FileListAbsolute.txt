@@ -1,0 +1,10 @@
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\bin\Debug\netcoreapp2.1\P02OddOccurances.deps.json
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\bin\Debug\netcoreapp2.1\P02OddOccurances.runtimeconfig.json
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\bin\Debug\netcoreapp2.1\P02OddOccurances.runtimeconfig.dev.json
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\bin\Debug\netcoreapp2.1\P02OddOccurances.dll
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\bin\Debug\netcoreapp2.1\P02OddOccurances.pdb
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\obj\Debug\netcoreapp2.1\P02OddOccurances.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\obj\Debug\netcoreapp2.1\P02OddOccurances.AssemblyInfoInputs.cache
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\obj\Debug\netcoreapp2.1\P02OddOccurances.AssemblyInfo.cs
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\obj\Debug\netcoreapp2.1\P02OddOccurances.dll
+C:\Dev\TechModul\DictionaryLab\P02OddOccurances\obj\Debug\netcoreapp2.1\P02OddOccurances.pdb

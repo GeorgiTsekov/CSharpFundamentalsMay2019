@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\bin\Debug\netcoreapp2.1\P07WaterOverflow.deps.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\bin\Debug\netcoreapp2.1\P07WaterOverflow.runtimeconfig.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\bin\Debug\netcoreapp2.1\P07WaterOverflow.runtimeconfig.dev.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\bin\Debug\netcoreapp2.1\P07WaterOverflow.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\bin\Debug\netcoreapp2.1\P07WaterOverflow.pdb
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\obj\Debug\netcoreapp2.1\P07WaterOverflow.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\obj\Debug\netcoreapp2.1\P07WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\obj\Debug\netcoreapp2.1\P07WaterOverflow.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\obj\Debug\netcoreapp2.1\P07WaterOverflow.AssemblyInfo.cs
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\obj\Debug\netcoreapp2.1\P07WaterOverflow.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\P07WaterOverflow\obj\Debug\netcoreapp2.1\P07WaterOverflow.pdb

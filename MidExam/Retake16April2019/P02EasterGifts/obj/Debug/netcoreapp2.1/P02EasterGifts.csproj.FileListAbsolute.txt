@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\bin\Debug\netcoreapp2.1\P02EasterGifts.deps.json
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\bin\Debug\netcoreapp2.1\P02EasterGifts.runtimeconfig.json
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\bin\Debug\netcoreapp2.1\P02EasterGifts.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\bin\Debug\netcoreapp2.1\P02EasterGifts.dll
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\bin\Debug\netcoreapp2.1\P02EasterGifts.pdb
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\obj\Debug\netcoreapp2.1\P02EasterGifts.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\obj\Debug\netcoreapp2.1\P02EasterGifts.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\obj\Debug\netcoreapp2.1\P02EasterGifts.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\obj\Debug\netcoreapp2.1\P02EasterGifts.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\obj\Debug\netcoreapp2.1\P02EasterGifts.dll
+C:\Dev\TechModul\MidExam\Retake16April2019\P02EasterGifts\obj\Debug\netcoreapp2.1\P02EasterGifts.pdb

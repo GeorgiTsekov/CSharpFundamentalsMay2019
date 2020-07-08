@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\bin\Debug\netcoreapp2.1\P06Courses.deps.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\bin\Debug\netcoreapp2.1\P06Courses.runtimeconfig.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\bin\Debug\netcoreapp2.1\P06Courses.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\bin\Debug\netcoreapp2.1\P06Courses.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\bin\Debug\netcoreapp2.1\P06Courses.pdb
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\obj\Debug\netcoreapp2.1\P06Courses.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\obj\Debug\netcoreapp2.1\P06Courses.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\obj\Debug\netcoreapp2.1\P06Courses.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\obj\Debug\netcoreapp2.1\P06Courses.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\obj\Debug\netcoreapp2.1\P06Courses.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P06Courses\obj\Debug\netcoreapp2.1\P06Courses.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\bin\Debug\netcoreapp2.1\P01ChristmasSpirit.deps.json
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\bin\Debug\netcoreapp2.1\P01ChristmasSpirit.runtimeconfig.json
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\bin\Debug\netcoreapp2.1\P01ChristmasSpirit.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\bin\Debug\netcoreapp2.1\P01ChristmasSpirit.dll
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\bin\Debug\netcoreapp2.1\P01ChristmasSpirit.pdb
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\obj\Debug\netcoreapp2.1\P01ChristmasSpirit.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\obj\Debug\netcoreapp2.1\P01ChristmasSpirit.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\obj\Debug\netcoreapp2.1\P01ChristmasSpirit.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\obj\Debug\netcoreapp2.1\P01ChristmasSpirit.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\obj\Debug\netcoreapp2.1\P01ChristmasSpirit.dll
+C:\Dev\TechModul\MidExam18Dec2018\P01ChristmasSpirit\obj\Debug\netcoreapp2.1\P01ChristmasSpirit.pdb

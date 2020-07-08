@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\library\vacantion\bin\Debug\netcoreapp2.1\vacantion.deps.json
+c:\users\tmp\source\repos\library\vacantion\bin\Debug\netcoreapp2.1\vacantion.runtimeconfig.json
+c:\users\tmp\source\repos\library\vacantion\bin\Debug\netcoreapp2.1\vacantion.runtimeconfig.dev.json
+c:\users\tmp\source\repos\library\vacantion\bin\Debug\netcoreapp2.1\vacantion.dll
+c:\users\tmp\source\repos\library\vacantion\bin\Debug\netcoreapp2.1\vacantion.pdb
+c:\users\tmp\source\repos\library\vacantion\obj\Debug\netcoreapp2.1\vacantion.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\library\vacantion\obj\Debug\netcoreapp2.1\vacantion.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\library\vacantion\obj\Debug\netcoreapp2.1\vacantion.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\library\vacantion\obj\Debug\netcoreapp2.1\vacantion.AssemblyInfo.cs
+c:\users\tmp\source\repos\library\vacantion\obj\Debug\netcoreapp2.1\vacantion.dll
+c:\users\tmp\source\repos\library\vacantion\obj\Debug\netcoreapp2.1\vacantion.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\bin\Debug\netcoreapp2.1\equalPairs.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\bin\Debug\netcoreapp2.1\equalPairs.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\bin\Debug\netcoreapp2.1\equalPairs.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\bin\Debug\netcoreapp2.1\equalPairs.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\bin\Debug\netcoreapp2.1\equalPairs.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\obj\Debug\netcoreapp2.1\equalPairs.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\obj\Debug\netcoreapp2.1\equalPairs.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\obj\Debug\netcoreapp2.1\equalPairs.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\obj\Debug\netcoreapp2.1\equalPairs.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\obj\Debug\netcoreapp2.1\equalPairs.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\equalPairs\obj\Debug\netcoreapp2.1\equalPairs.pdb

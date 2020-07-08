@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\bin\Debug\netcoreapp2.1\latinLetter.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\bin\Debug\netcoreapp2.1\latinLetter.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\bin\Debug\netcoreapp2.1\latinLetter.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\bin\Debug\netcoreapp2.1\latinLetter.dll
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\bin\Debug\netcoreapp2.1\latinLetter.pdb
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\obj\Debug\netcoreapp2.1\latinLetter.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\obj\Debug\netcoreapp2.1\latinLetter.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\obj\Debug\netcoreapp2.1\latinLetter.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\obj\Debug\netcoreapp2.1\latinLetter.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\obj\Debug\netcoreapp2.1\latinLetter.dll
+C:\Users\Cekov\source\repos\numbers1-100\latinLetter\obj\Debug\netcoreapp2.1\latinLetter.pdb

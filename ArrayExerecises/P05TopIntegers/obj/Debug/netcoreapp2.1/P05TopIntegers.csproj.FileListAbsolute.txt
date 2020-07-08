@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\bin\Debug\netcoreapp2.1\P05TopIntegers.deps.json
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\bin\Debug\netcoreapp2.1\P05TopIntegers.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\bin\Debug\netcoreapp2.1\P05TopIntegers.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\bin\Debug\netcoreapp2.1\P05TopIntegers.dll
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\bin\Debug\netcoreapp2.1\P05TopIntegers.pdb
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\obj\Debug\netcoreapp2.1\P05TopIntegers.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\obj\Debug\netcoreapp2.1\P05TopIntegers.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\obj\Debug\netcoreapp2.1\P05TopIntegers.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\obj\Debug\netcoreapp2.1\P05TopIntegers.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\obj\Debug\netcoreapp2.1\P05TopIntegers.dll
+C:\Dev\TechModul\ArrayExerecises\P05TopIntegers\obj\Debug\netcoreapp2.1\P05TopIntegers.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\bin\Debug\netcoreapp2.1\P09PalindromeIntegers.deps.json
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\bin\Debug\netcoreapp2.1\P09PalindromeIntegers.runtimeconfig.json
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\bin\Debug\netcoreapp2.1\P09PalindromeIntegers.runtimeconfig.dev.json
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\bin\Debug\netcoreapp2.1\P09PalindromeIntegers.dll
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\bin\Debug\netcoreapp2.1\P09PalindromeIntegers.pdb
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\obj\Debug\netcoreapp2.1\P09PalindromeIntegers.csprojAssemblyReference.cache
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\obj\Debug\netcoreapp2.1\P09PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\obj\Debug\netcoreapp2.1\P09PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\obj\Debug\netcoreapp2.1\P09PalindromeIntegers.AssemblyInfo.cs
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\obj\Debug\netcoreapp2.1\P09PalindromeIntegers.dll
+C:\Dev\TechModul\MethodsExercise\P09PalindromeIntegers\obj\Debug\netcoreapp2.1\P09PalindromeIntegers.pdb

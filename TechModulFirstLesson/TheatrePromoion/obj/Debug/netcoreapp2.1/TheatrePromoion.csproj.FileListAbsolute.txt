@@ -1,0 +1,10 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\bin\Debug\netcoreapp2.1\TheatrePromoion.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\bin\Debug\netcoreapp2.1\TheatrePromoion.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\bin\Debug\netcoreapp2.1\TheatrePromoion.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\bin\Debug\netcoreapp2.1\TheatrePromoion.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\bin\Debug\netcoreapp2.1\TheatrePromoion.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\obj\Debug\netcoreapp2.1\TheatrePromoion.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\obj\Debug\netcoreapp2.1\TheatrePromoion.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\obj\Debug\netcoreapp2.1\TheatrePromoion.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\obj\Debug\netcoreapp2.1\TheatrePromoion.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\TheatrePromoion\obj\Debug\netcoreapp2.1\TheatrePromoion.pdb

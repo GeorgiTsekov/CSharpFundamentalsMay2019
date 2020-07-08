@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\bin\Debug\netcoreapp2.1\ArreyMoreExerc.deps.json
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\bin\Debug\netcoreapp2.1\ArreyMoreExerc.runtimeconfig.json
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\bin\Debug\netcoreapp2.1\ArreyMoreExerc.runtimeconfig.dev.json
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\bin\Debug\netcoreapp2.1\ArreyMoreExerc.dll
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\bin\Debug\netcoreapp2.1\ArreyMoreExerc.pdb
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\obj\Debug\netcoreapp2.1\ArreyMoreExerc.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\obj\Debug\netcoreapp2.1\ArreyMoreExerc.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\obj\Debug\netcoreapp2.1\ArreyMoreExerc.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\obj\Debug\netcoreapp2.1\ArreyMoreExerc.AssemblyInfo.cs
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\obj\Debug\netcoreapp2.1\ArreyMoreExerc.dll
+C:\Dev\TechModulTest\ArreyMoreExerc\ArreyMoreExerc\obj\Debug\netcoreapp2.1\ArreyMoreExerc.pdb

@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\bin\Debug\netcoreapp2.1\cookieFactory.deps.json
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\bin\Debug\netcoreapp2.1\cookieFactory.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\bin\Debug\netcoreapp2.1\cookieFactory.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\bin\Debug\netcoreapp2.1\cookieFactory.dll
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\bin\Debug\netcoreapp2.1\cookieFactory.pdb
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\obj\Debug\netcoreapp2.1\cookieFactory.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\obj\Debug\netcoreapp2.1\cookieFactory.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\obj\Debug\netcoreapp2.1\cookieFactory.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\obj\Debug\netcoreapp2.1\cookieFactory.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\obj\Debug\netcoreapp2.1\cookieFactory.dll
+c:\users\tmp\source\repos\numbersNto1\cookieFactory\obj\Debug\netcoreapp2.1\cookieFactory.pdb

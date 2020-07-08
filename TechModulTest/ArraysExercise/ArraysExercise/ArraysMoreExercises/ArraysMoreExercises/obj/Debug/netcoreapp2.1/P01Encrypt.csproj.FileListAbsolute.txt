@@ -1,0 +1,10 @@
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01Encrypt.deps.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01Encrypt.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01Encrypt.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01Encrypt.dll
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\P01Encrypt.pdb
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01Encrypt.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01Encrypt.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01Encrypt.dll
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\P01Encrypt.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\bin\Debug\netcoreapp2.1\P03TheFinalQuest.deps.json
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\bin\Debug\netcoreapp2.1\P03TheFinalQuest.runtimeconfig.json
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\bin\Debug\netcoreapp2.1\P03TheFinalQuest.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\bin\Debug\netcoreapp2.1\P03TheFinalQuest.dll
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\bin\Debug\netcoreapp2.1\P03TheFinalQuest.pdb
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\obj\Debug\netcoreapp2.1\P03TheFinalQuest.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\obj\Debug\netcoreapp2.1\P03TheFinalQuest.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\obj\Debug\netcoreapp2.1\P03TheFinalQuest.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\obj\Debug\netcoreapp2.1\P03TheFinalQuest.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\obj\Debug\netcoreapp2.1\P03TheFinalQuest.dll
+C:\Users\Cekov\source\repos\MidExam10March2019G2\P03TheFinalQuest\obj\Debug\netcoreapp2.1\P03TheFinalQuest.pdb

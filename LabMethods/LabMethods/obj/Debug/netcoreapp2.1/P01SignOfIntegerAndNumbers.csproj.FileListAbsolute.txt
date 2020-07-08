@@ -1,0 +1,11 @@
+C:\Dev\TechModul\LabMethods\LabMethods\bin\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.deps.json
+C:\Dev\TechModul\LabMethods\LabMethods\bin\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.runtimeconfig.json
+C:\Dev\TechModul\LabMethods\LabMethods\bin\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.runtimeconfig.dev.json
+C:\Dev\TechModul\LabMethods\LabMethods\bin\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.dll
+C:\Dev\TechModul\LabMethods\LabMethods\bin\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.pdb
+C:\Dev\TechModul\LabMethods\LabMethods\obj\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.csprojAssemblyReference.cache
+C:\Dev\TechModul\LabMethods\LabMethods\obj\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\LabMethods\LabMethods\obj\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.AssemblyInfoInputs.cache
+C:\Dev\TechModul\LabMethods\LabMethods\obj\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.AssemblyInfo.cs
+C:\Dev\TechModul\LabMethods\LabMethods\obj\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.dll
+C:\Dev\TechModul\LabMethods\LabMethods\obj\Debug\netcoreapp2.1\P01SignOfIntegerAndNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\bin\Debug\netcoreapp2.1\halfSumElement.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\bin\Debug\netcoreapp2.1\halfSumElement.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\bin\Debug\netcoreapp2.1\halfSumElement.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\bin\Debug\netcoreapp2.1\halfSumElement.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\bin\Debug\netcoreapp2.1\halfSumElement.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\obj\Debug\netcoreapp2.1\halfSumElement.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\obj\Debug\netcoreapp2.1\halfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\obj\Debug\netcoreapp2.1\halfSumElement.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\obj\Debug\netcoreapp2.1\halfSumElement.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\obj\Debug\netcoreapp2.1\halfSumElement.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\halfSumElement\obj\Debug\netcoreapp2.1\halfSumElement.pdb

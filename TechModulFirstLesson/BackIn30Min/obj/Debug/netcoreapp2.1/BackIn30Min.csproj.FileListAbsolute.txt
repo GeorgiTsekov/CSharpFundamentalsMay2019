@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\bin\Debug\netcoreapp2.1\BackIn30Min.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\bin\Debug\netcoreapp2.1\BackIn30Min.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\bin\Debug\netcoreapp2.1\BackIn30Min.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\bin\Debug\netcoreapp2.1\BackIn30Min.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\bin\Debug\netcoreapp2.1\BackIn30Min.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\obj\Debug\netcoreapp2.1\BackIn30Min.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\obj\Debug\netcoreapp2.1\BackIn30Min.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\obj\Debug\netcoreapp2.1\BackIn30Min.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\obj\Debug\netcoreapp2.1\BackIn30Min.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\obj\Debug\netcoreapp2.1\BackIn30Min.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\BackIn30Min\obj\Debug\netcoreapp2.1\BackIn30Min.csprojAssemblyReference.cache

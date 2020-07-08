@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\bin\Debug\netcoreapp2.1\P10SoftUniExamResults.deps.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\bin\Debug\netcoreapp2.1\P10SoftUniExamResults.runtimeconfig.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\bin\Debug\netcoreapp2.1\P10SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\bin\Debug\netcoreapp2.1\P10SoftUniExamResults.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\bin\Debug\netcoreapp2.1\P10SoftUniExamResults.pdb
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\obj\Debug\netcoreapp2.1\P10SoftUniExamResults.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\obj\Debug\netcoreapp2.1\P10SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\obj\Debug\netcoreapp2.1\P10SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\obj\Debug\netcoreapp2.1\P10SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\obj\Debug\netcoreapp2.1\P10SoftUniExamResults.dll
+C:\Users\Tmp\source\repos\ExerciseAssociativeArrays\P10SoftUniExamResults\obj\Debug\netcoreapp2.1\P10SoftUniExamResults.pdb

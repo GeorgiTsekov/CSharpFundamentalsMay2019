@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\obj\Debug\netcoreapp2.1\P10LadyBugs.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\obj\Debug\netcoreapp2.1\P10LadyBugs.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\obj\Debug\netcoreapp2.1\P10LadyBugs.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\obj\Debug\netcoreapp2.1\P10LadyBugs.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\bin\Debug\netcoreapp2.1\P10LadyBugs.deps.json
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\bin\Debug\netcoreapp2.1\P10LadyBugs.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\bin\Debug\netcoreapp2.1\P10LadyBugs.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\bin\Debug\netcoreapp2.1\P10LadyBugs.dll
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\bin\Debug\netcoreapp2.1\P10LadyBugs.pdb
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\obj\Debug\netcoreapp2.1\P10LadyBugs.dll
+C:\Dev\TechModul\ArrayExerecises\P10LadyBugs\obj\Debug\netcoreapp2.1\P10LadyBugs.pdb

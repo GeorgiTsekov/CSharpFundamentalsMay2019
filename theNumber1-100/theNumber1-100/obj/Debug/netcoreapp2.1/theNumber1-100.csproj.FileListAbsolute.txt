@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\bin\Debug\netcoreapp2.1\theNumber1-100.deps.json
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\bin\Debug\netcoreapp2.1\theNumber1-100.runtimeconfig.json
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\bin\Debug\netcoreapp2.1\theNumber1-100.runtimeconfig.dev.json
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\bin\Debug\netcoreapp2.1\theNumber1-100.dll
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\bin\Debug\netcoreapp2.1\theNumber1-100.pdb
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\obj\Debug\netcoreapp2.1\theNumber1-100.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\obj\Debug\netcoreapp2.1\theNumber1-100.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\obj\Debug\netcoreapp2.1\theNumber1-100.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\obj\Debug\netcoreapp2.1\theNumber1-100.AssemblyInfo.cs
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\obj\Debug\netcoreapp2.1\theNumber1-100.dll
+c:\users\tmp\source\repos\theNumber1-100\theNumber1-100\obj\Debug\netcoreapp2.1\theNumber1-100.pdb

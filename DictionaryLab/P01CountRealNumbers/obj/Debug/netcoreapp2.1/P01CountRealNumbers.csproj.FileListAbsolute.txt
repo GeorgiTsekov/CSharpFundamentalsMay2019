@@ -1,0 +1,11 @@
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\bin\Debug\netcoreapp2.1\P01CountRealNumbers.deps.json
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\bin\Debug\netcoreapp2.1\P01CountRealNumbers.runtimeconfig.json
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\bin\Debug\netcoreapp2.1\P01CountRealNumbers.runtimeconfig.dev.json
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\bin\Debug\netcoreapp2.1\P01CountRealNumbers.dll
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\bin\Debug\netcoreapp2.1\P01CountRealNumbers.pdb
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\obj\Debug\netcoreapp2.1\P01CountRealNumbers.csprojAssemblyReference.cache
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\obj\Debug\netcoreapp2.1\P01CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\obj\Debug\netcoreapp2.1\P01CountRealNumbers.AssemblyInfoInputs.cache
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\obj\Debug\netcoreapp2.1\P01CountRealNumbers.AssemblyInfo.cs
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\obj\Debug\netcoreapp2.1\P01CountRealNumbers.dll
+C:\Dev\TechModul\DictionaryLab\P01CountRealNumbers\obj\Debug\netcoreapp2.1\P01CountRealNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\bin\Debug\netcoreapp2.1\P09KaminoFactory.deps.json
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\bin\Debug\netcoreapp2.1\P09KaminoFactory.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\bin\Debug\netcoreapp2.1\P09KaminoFactory.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\bin\Debug\netcoreapp2.1\P09KaminoFactory.dll
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\bin\Debug\netcoreapp2.1\P09KaminoFactory.pdb
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\obj\Debug\netcoreapp2.1\P09KaminoFactory.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\obj\Debug\netcoreapp2.1\P09KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\obj\Debug\netcoreapp2.1\P09KaminoFactory.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\obj\Debug\netcoreapp2.1\P09KaminoFactory.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\obj\Debug\netcoreapp2.1\P09KaminoFactory.dll
+C:\Dev\TechModul\ArrayExerecises\P09KaminoFactory\obj\Debug\netcoreapp2.1\P09KaminoFactory.pdb

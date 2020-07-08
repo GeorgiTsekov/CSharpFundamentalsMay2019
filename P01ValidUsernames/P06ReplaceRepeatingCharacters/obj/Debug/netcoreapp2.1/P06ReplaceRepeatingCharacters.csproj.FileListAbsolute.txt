@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\bin\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.deps.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\bin\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.runtimeconfig.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\bin\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\bin\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\bin\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.pdb
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\obj\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\obj\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\obj\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\obj\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\obj\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P06ReplaceRepeatingCharacters\obj\Debug\netcoreapp2.1\P06ReplaceRepeatingCharacters.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\bin\Debug\netcoreapp2.1\P05ListMoreExeDrums.deps.json
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\bin\Debug\netcoreapp2.1\P05ListMoreExeDrums.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\bin\Debug\netcoreapp2.1\P05ListMoreExeDrums.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\bin\Debug\netcoreapp2.1\P05ListMoreExeDrums.dll
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\bin\Debug\netcoreapp2.1\P05ListMoreExeDrums.pdb
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\obj\Debug\netcoreapp2.1\P05ListMoreExeDrums.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\obj\Debug\netcoreapp2.1\P05ListMoreExeDrums.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\obj\Debug\netcoreapp2.1\P05ListMoreExeDrums.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\obj\Debug\netcoreapp2.1\P05ListMoreExeDrums.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\obj\Debug\netcoreapp2.1\P05ListMoreExeDrums.dll
+C:\Users\Tmp\source\repos\TechModul\ExamsTest\P05ListMoreExeDrums\obj\Debug\netcoreapp2.1\P05ListMoreExeDrums.pdb

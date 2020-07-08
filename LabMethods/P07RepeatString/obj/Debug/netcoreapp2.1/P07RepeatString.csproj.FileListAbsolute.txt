@@ -1,0 +1,10 @@
+C:\Dev\TechModul\LabMethods\P07RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.deps.json
+C:\Dev\TechModul\LabMethods\P07RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.runtimeconfig.json
+C:\Dev\TechModul\LabMethods\P07RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.runtimeconfig.dev.json
+C:\Dev\TechModul\LabMethods\P07RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.dll
+C:\Dev\TechModul\LabMethods\P07RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.pdb
+C:\Dev\TechModul\LabMethods\P07RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\LabMethods\P07RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.AssemblyInfoInputs.cache
+C:\Dev\TechModul\LabMethods\P07RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.AssemblyInfo.cs
+C:\Dev\TechModul\LabMethods\P07RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.dll
+C:\Dev\TechModul\LabMethods\P07RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.pdb

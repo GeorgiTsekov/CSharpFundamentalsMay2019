@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\bin\Debug\netcoreapp2.1\tripToWorldCup.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\bin\Debug\netcoreapp2.1\tripToWorldCup.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\bin\Debug\netcoreapp2.1\tripToWorldCup.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\bin\Debug\netcoreapp2.1\tripToWorldCup.dll
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\bin\Debug\netcoreapp2.1\tripToWorldCup.pdb
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\obj\Debug\netcoreapp2.1\tripToWorldCup.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\obj\Debug\netcoreapp2.1\tripToWorldCup.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\obj\Debug\netcoreapp2.1\tripToWorldCup.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\obj\Debug\netcoreapp2.1\tripToWorldCup.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\obj\Debug\netcoreapp2.1\tripToWorldCup.dll
+C:\Users\Cekov\source\repos\stadionIncom\tripToWorldCup\obj\Debug\netcoreapp2.1\tripToWorldCup.pdb

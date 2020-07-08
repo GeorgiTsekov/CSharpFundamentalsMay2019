@@ -1,0 +1,10 @@
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\bin\Debug\netcoreapp2.1\P05SumEvenNumbers.deps.json
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\bin\Debug\netcoreapp2.1\P05SumEvenNumbers.runtimeconfig.json
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\bin\Debug\netcoreapp2.1\P05SumEvenNumbers.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\bin\Debug\netcoreapp2.1\P05SumEvenNumbers.dll
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\bin\Debug\netcoreapp2.1\P05SumEvenNumbers.pdb
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\obj\Debug\netcoreapp2.1\P05SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\obj\Debug\netcoreapp2.1\P05SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\obj\Debug\netcoreapp2.1\P05SumEvenNumbers.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\obj\Debug\netcoreapp2.1\P05SumEvenNumbers.dll
+C:\Dev\TechModul\ArrayLab\P05SumEvenNumbers\obj\Debug\netcoreapp2.1\P05SumEvenNumbers.pdb

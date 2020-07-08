@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\bin\Debug\netcoreapp2.1\Exam26October2019.deps.json
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\bin\Debug\netcoreapp2.1\Exam26October2019.runtimeconfig.json
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\bin\Debug\netcoreapp2.1\Exam26October2019.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\bin\Debug\netcoreapp2.1\Exam26October2019.dll
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\bin\Debug\netcoreapp2.1\Exam26October2019.pdb
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\obj\Debug\netcoreapp2.1\Exam26October2019.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\obj\Debug\netcoreapp2.1\Exam26October2019.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\obj\Debug\netcoreapp2.1\Exam26October2019.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\obj\Debug\netcoreapp2.1\Exam26October2019.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\obj\Debug\netcoreapp2.1\Exam26October2019.dll
+C:\Users\Tmp\source\repos\Exam26October2019\Exam26October2019\obj\Debug\netcoreapp2.1\Exam26October2019.pdb

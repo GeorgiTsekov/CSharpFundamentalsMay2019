@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.deps.json
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.dll
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\bin\Debug\netcoreapp2.1\P01PartyProfit.pdb
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.dll
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P01PartyProfit\obj\Debug\netcoreapp2.1\P01PartyProfit.pdb

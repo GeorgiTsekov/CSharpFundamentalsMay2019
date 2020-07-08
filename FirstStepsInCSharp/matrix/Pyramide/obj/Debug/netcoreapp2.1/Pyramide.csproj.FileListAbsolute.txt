@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\matrix\Pyramide\bin\Debug\netcoreapp2.1\Pyramide.deps.json
+C:\Users\Cekov\source\repos\matrix\Pyramide\bin\Debug\netcoreapp2.1\Pyramide.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\Pyramide\bin\Debug\netcoreapp2.1\Pyramide.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\Pyramide\bin\Debug\netcoreapp2.1\Pyramide.dll
+C:\Users\Cekov\source\repos\matrix\Pyramide\bin\Debug\netcoreapp2.1\Pyramide.pdb
+C:\Users\Cekov\source\repos\matrix\Pyramide\obj\Debug\netcoreapp2.1\Pyramide.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\matrix\Pyramide\obj\Debug\netcoreapp2.1\Pyramide.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\Pyramide\obj\Debug\netcoreapp2.1\Pyramide.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\Pyramide\obj\Debug\netcoreapp2.1\Pyramide.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\Pyramide\obj\Debug\netcoreapp2.1\Pyramide.dll
+C:\Users\Cekov\source\repos\matrix\Pyramide\obj\Debug\netcoreapp2.1\Pyramide.pdb

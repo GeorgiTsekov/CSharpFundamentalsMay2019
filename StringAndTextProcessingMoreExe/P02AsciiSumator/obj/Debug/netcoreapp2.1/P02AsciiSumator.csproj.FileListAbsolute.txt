@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\bin\Debug\netcoreapp2.1\P02AsciiSumator.deps.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\bin\Debug\netcoreapp2.1\P02AsciiSumator.runtimeconfig.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\bin\Debug\netcoreapp2.1\P02AsciiSumator.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\bin\Debug\netcoreapp2.1\P02AsciiSumator.dll
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\bin\Debug\netcoreapp2.1\P02AsciiSumator.pdb
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\obj\Debug\netcoreapp2.1\P02AsciiSumator.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\obj\Debug\netcoreapp2.1\P02AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\obj\Debug\netcoreapp2.1\P02AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\obj\Debug\netcoreapp2.1\P02AsciiSumator.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\obj\Debug\netcoreapp2.1\P02AsciiSumator.dll
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P02AsciiSumator\obj\Debug\netcoreapp2.1\P02AsciiSumator.pdb

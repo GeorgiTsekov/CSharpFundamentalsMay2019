@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\bin\Debug\netcoreapp2.1\onTimeForTheExam.deps.json
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\bin\Debug\netcoreapp2.1\onTimeForTheExam.runtimeconfig.json
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\bin\Debug\netcoreapp2.1\onTimeForTheExam.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\bin\Debug\netcoreapp2.1\onTimeForTheExam.dll
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\bin\Debug\netcoreapp2.1\onTimeForTheExam.pdb
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\obj\Debug\netcoreapp2.1\onTimeForTheExam.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\obj\Debug\netcoreapp2.1\onTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\obj\Debug\netcoreapp2.1\onTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\obj\Debug\netcoreapp2.1\onTimeForTheExam.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\obj\Debug\netcoreapp2.1\onTimeForTheExam.dll
+C:\Users\Cekov\source\repos\ContigentConstructions\onTimeForTheExam\obj\Debug\netcoreapp2.1\onTimeForTheExam.pdb

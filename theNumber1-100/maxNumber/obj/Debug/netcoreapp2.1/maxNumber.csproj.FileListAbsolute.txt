@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\bin\Debug\netcoreapp2.1\maxNumber.deps.json
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\bin\Debug\netcoreapp2.1\maxNumber.runtimeconfig.json
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\bin\Debug\netcoreapp2.1\maxNumber.runtimeconfig.dev.json
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\bin\Debug\netcoreapp2.1\maxNumber.dll
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\bin\Debug\netcoreapp2.1\maxNumber.pdb
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\obj\Debug\netcoreapp2.1\maxNumber.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\obj\Debug\netcoreapp2.1\maxNumber.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\obj\Debug\netcoreapp2.1\maxNumber.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\obj\Debug\netcoreapp2.1\maxNumber.AssemblyInfo.cs
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\obj\Debug\netcoreapp2.1\maxNumber.dll
+c:\users\tmp\source\repos\theNumber1-100\maxNumber\obj\Debug\netcoreapp2.1\maxNumber.pdb

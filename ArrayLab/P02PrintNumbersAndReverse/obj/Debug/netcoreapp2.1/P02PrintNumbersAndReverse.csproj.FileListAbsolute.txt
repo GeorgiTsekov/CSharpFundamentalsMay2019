@@ -1,0 +1,10 @@
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\bin\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.deps.json
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\bin\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.runtimeconfig.json
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\bin\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\bin\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.dll
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\bin\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.pdb
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\obj\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\obj\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\obj\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\obj\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.dll
+C:\Dev\TechModul\ArrayLab\P02PrintNumbersAndReverse\obj\Debug\netcoreapp2.1\P02PrintNumbersAndReverse.pdb

@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.deps.json
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.runtimeconfig.json
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.dll
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\bin\Debug\netcoreapp2.1\P03Substring.pdb
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.dll
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.pdb
+C:\Users\Cekov\source\repos\TextProcessingLab\P03Substring\obj\Debug\netcoreapp2.1\P03Substring.csprojAssemblyReference.cache

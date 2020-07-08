@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\bin\Debug\netcoreapp2.1\footballKit.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\bin\Debug\netcoreapp2.1\footballKit.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\bin\Debug\netcoreapp2.1\footballKit.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\bin\Debug\netcoreapp2.1\footballKit.dll
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\bin\Debug\netcoreapp2.1\footballKit.pdb
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\obj\Debug\netcoreapp2.1\footballKit.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\obj\Debug\netcoreapp2.1\footballKit.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\obj\Debug\netcoreapp2.1\footballKit.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\obj\Debug\netcoreapp2.1\footballKit.dll
+C:\Users\Cekov\source\repos\stadionIncom\footballKit\obj\Debug\netcoreapp2.1\footballKit.pdb

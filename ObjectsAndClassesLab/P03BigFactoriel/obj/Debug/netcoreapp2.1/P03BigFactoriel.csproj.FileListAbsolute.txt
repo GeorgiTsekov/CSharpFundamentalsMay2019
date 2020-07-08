@@ -1,0 +1,10 @@
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\bin\Debug\netcoreapp2.1\P03BigFactoriel.deps.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\bin\Debug\netcoreapp2.1\P03BigFactoriel.runtimeconfig.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\bin\Debug\netcoreapp2.1\P03BigFactoriel.runtimeconfig.dev.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\bin\Debug\netcoreapp2.1\P03BigFactoriel.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\bin\Debug\netcoreapp2.1\P03BigFactoriel.pdb
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\obj\Debug\netcoreapp2.1\P03BigFactoriel.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\obj\Debug\netcoreapp2.1\P03BigFactoriel.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\obj\Debug\netcoreapp2.1\P03BigFactoriel.AssemblyInfo.cs
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\obj\Debug\netcoreapp2.1\P03BigFactoriel.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\P03BigFactoriel\obj\Debug\netcoreapp2.1\P03BigFactoriel.pdb

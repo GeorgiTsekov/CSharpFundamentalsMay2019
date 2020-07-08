@@ -1,0 +1,10 @@
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.deps.json
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.runtimeconfig.json
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.dll
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\bin\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.pdb
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.dll
+C:\Dev\TechModul\ArrayLab\P06EvenAndOddSubtraction\obj\Debug\netcoreapp2.1\P06EvenAndOddSubtraction.pdb

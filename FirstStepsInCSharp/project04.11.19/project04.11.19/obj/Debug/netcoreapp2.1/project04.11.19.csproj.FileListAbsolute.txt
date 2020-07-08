@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\bin\Debug\netcoreapp2.1\project04.11.19.deps.json
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\bin\Debug\netcoreapp2.1\project04.11.19.runtimeconfig.json
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\bin\Debug\netcoreapp2.1\project04.11.19.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\bin\Debug\netcoreapp2.1\project04.11.19.dll
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\bin\Debug\netcoreapp2.1\project04.11.19.pdb
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\obj\Debug\netcoreapp2.1\project04.11.19.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\obj\Debug\netcoreapp2.1\project04.11.19.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\obj\Debug\netcoreapp2.1\project04.11.19.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\obj\Debug\netcoreapp2.1\project04.11.19.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\obj\Debug\netcoreapp2.1\project04.11.19.dll
+C:\Users\Cekov\source\repos\project04.11.19\project04.11.19\obj\Debug\netcoreapp2.1\project04.11.19.pdb

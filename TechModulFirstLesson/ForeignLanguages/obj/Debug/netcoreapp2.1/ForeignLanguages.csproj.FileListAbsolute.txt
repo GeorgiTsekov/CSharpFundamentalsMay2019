@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\bin\Debug\netcoreapp2.1\ForeignLanguages.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\bin\Debug\netcoreapp2.1\ForeignLanguages.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\bin\Debug\netcoreapp2.1\ForeignLanguages.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\bin\Debug\netcoreapp2.1\ForeignLanguages.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\bin\Debug\netcoreapp2.1\ForeignLanguages.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\obj\Debug\netcoreapp2.1\ForeignLanguages.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\obj\Debug\netcoreapp2.1\ForeignLanguages.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\obj\Debug\netcoreapp2.1\ForeignLanguages.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\obj\Debug\netcoreapp2.1\ForeignLanguages.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\obj\Debug\netcoreapp2.1\ForeignLanguages.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\ForeignLanguages\obj\Debug\netcoreapp2.1\ForeignLanguages.pdb

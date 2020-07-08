@@ -1,0 +1,10 @@
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.deps.json
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.runtimeconfig.json
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.runtimeconfig.dev.json
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.dll
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\bin\Debug\netcoreapp2.1\P07RepeatString.pdb
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.AssemblyInfo.cs
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.dll
+C:\Dev\TechModulTest\LabMethods\P06RepeatString\obj\Debug\netcoreapp2.1\P07RepeatString.pdb

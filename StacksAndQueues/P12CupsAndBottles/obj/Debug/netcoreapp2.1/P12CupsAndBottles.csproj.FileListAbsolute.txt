@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\bin\Debug\netcoreapp2.1\P12CupsAndBottles.deps.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\bin\Debug\netcoreapp2.1\P12CupsAndBottles.runtimeconfig.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\bin\Debug\netcoreapp2.1\P12CupsAndBottles.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\bin\Debug\netcoreapp2.1\P12CupsAndBottles.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\bin\Debug\netcoreapp2.1\P12CupsAndBottles.pdb
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\obj\Debug\netcoreapp2.1\P12CupsAndBottles.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\obj\Debug\netcoreapp2.1\P12CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\obj\Debug\netcoreapp2.1\P12CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\obj\Debug\netcoreapp2.1\P12CupsAndBottles.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\obj\Debug\netcoreapp2.1\P12CupsAndBottles.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P12CupsAndBottles\obj\Debug\netcoreapp2.1\P12CupsAndBottles.pdb

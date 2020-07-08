@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\bin\Debug\netcoreapp2.1\P11KeyRevolver.deps.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\bin\Debug\netcoreapp2.1\P11KeyRevolver.runtimeconfig.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\bin\Debug\netcoreapp2.1\P11KeyRevolver.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\bin\Debug\netcoreapp2.1\P11KeyRevolver.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\bin\Debug\netcoreapp2.1\P11KeyRevolver.pdb
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\obj\Debug\netcoreapp2.1\P11KeyRevolver.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\obj\Debug\netcoreapp2.1\P11KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\obj\Debug\netcoreapp2.1\P11KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\obj\Debug\netcoreapp2.1\P11KeyRevolver.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\obj\Debug\netcoreapp2.1\P11KeyRevolver.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P11KeyRevolver\obj\Debug\netcoreapp2.1\P11KeyRevolver.pdb

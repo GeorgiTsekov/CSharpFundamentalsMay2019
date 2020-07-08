@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\bin\Debug\netcoreapp2.1\P01DayOfWeek.deps.json
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\bin\Debug\netcoreapp2.1\P01DayOfWeek.runtimeconfig.json
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\bin\Debug\netcoreapp2.1\P01DayOfWeek.runtimeconfig.dev.json
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\bin\Debug\netcoreapp2.1\P01DayOfWeek.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\bin\Debug\netcoreapp2.1\P01DayOfWeek.pdb
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\obj\Debug\netcoreapp2.1\P01DayOfWeek.csprojAssemblyReference.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\obj\Debug\netcoreapp2.1\P01DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\obj\Debug\netcoreapp2.1\P01DayOfWeek.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\obj\Debug\netcoreapp2.1\P01DayOfWeek.AssemblyInfo.cs
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\obj\Debug\netcoreapp2.1\P01DayOfWeek.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\ConsoleApp1\obj\Debug\netcoreapp2.1\P01DayOfWeek.pdb

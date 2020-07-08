@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\bin\Debug\netcoreapp2.1\Passed.deps.json
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\bin\Debug\netcoreapp2.1\Passed.runtimeconfig.json
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\bin\Debug\netcoreapp2.1\Passed.runtimeconfig.dev.json
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\bin\Debug\netcoreapp2.1\Passed.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\bin\Debug\netcoreapp2.1\Passed.pdb
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\obj\Debug\netcoreapp2.1\Passed.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\obj\Debug\netcoreapp2.1\Passed.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\obj\Debug\netcoreapp2.1\Passed.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\obj\Debug\netcoreapp2.1\Passed.AssemblyInfo.cs
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\obj\Debug\netcoreapp2.1\Passed.dll
+c:\users\tmp\source\repos\TechModulFirstLesson\Passed\obj\Debug\netcoreapp2.1\Passed.pdb

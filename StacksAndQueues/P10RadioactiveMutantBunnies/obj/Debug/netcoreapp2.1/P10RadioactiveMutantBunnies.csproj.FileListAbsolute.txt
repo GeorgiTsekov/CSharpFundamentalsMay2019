@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\bin\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.deps.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\bin\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.runtimeconfig.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\bin\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\bin\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\bin\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.pdb
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\obj\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\obj\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\obj\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\obj\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\obj\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.dll
+C:\Users\Tmp\source\repos\StacksAndQueues\P10RadioactiveMutantBunnies\obj\Debug\netcoreapp2.1\P10RadioactiveMutantBunnies.pdb

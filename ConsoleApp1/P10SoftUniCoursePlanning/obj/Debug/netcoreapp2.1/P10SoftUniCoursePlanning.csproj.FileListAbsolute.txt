@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.deps.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.pdb
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P10SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P10SoftUniCoursePlanning.pdb

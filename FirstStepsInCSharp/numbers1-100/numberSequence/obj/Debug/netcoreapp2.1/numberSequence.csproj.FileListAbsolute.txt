@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\bin\Debug\netcoreapp2.1\numberSequence.deps.json
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\bin\Debug\netcoreapp2.1\numberSequence.runtimeconfig.json
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\bin\Debug\netcoreapp2.1\numberSequence.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\bin\Debug\netcoreapp2.1\numberSequence.dll
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\bin\Debug\netcoreapp2.1\numberSequence.pdb
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\obj\Debug\netcoreapp2.1\numberSequence.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\obj\Debug\netcoreapp2.1\numberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\obj\Debug\netcoreapp2.1\numberSequence.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\obj\Debug\netcoreapp2.1\numberSequence.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\obj\Debug\netcoreapp2.1\numberSequence.dll
+C:\Users\Cekov\source\repos\numbers1-100\numberSequence\obj\Debug\netcoreapp2.1\numberSequence.pdb

@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\library\while-cycle-excercise\bin\Debug\netcoreapp2.1\while-cycle-excercise.deps.json
+c:\users\tmp\source\repos\library\while-cycle-excercise\bin\Debug\netcoreapp2.1\while-cycle-excercise.runtimeconfig.json
+c:\users\tmp\source\repos\library\while-cycle-excercise\bin\Debug\netcoreapp2.1\while-cycle-excercise.runtimeconfig.dev.json
+c:\users\tmp\source\repos\library\while-cycle-excercise\bin\Debug\netcoreapp2.1\while-cycle-excercise.dll
+c:\users\tmp\source\repos\library\while-cycle-excercise\bin\Debug\netcoreapp2.1\while-cycle-excercise.pdb
+c:\users\tmp\source\repos\library\while-cycle-excercise\obj\Debug\netcoreapp2.1\while-cycle-excercise.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\library\while-cycle-excercise\obj\Debug\netcoreapp2.1\while-cycle-excercise.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\library\while-cycle-excercise\obj\Debug\netcoreapp2.1\while-cycle-excercise.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\library\while-cycle-excercise\obj\Debug\netcoreapp2.1\while-cycle-excercise.AssemblyInfo.cs
+c:\users\tmp\source\repos\library\while-cycle-excercise\obj\Debug\netcoreapp2.1\while-cycle-excercise.dll
+c:\users\tmp\source\repos\library\while-cycle-excercise\obj\Debug\netcoreapp2.1\while-cycle-excercise.pdb

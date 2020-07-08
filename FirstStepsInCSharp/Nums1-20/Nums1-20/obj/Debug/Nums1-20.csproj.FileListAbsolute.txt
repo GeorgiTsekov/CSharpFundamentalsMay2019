@@ -1,0 +1,6 @@
+C:\Users\Cekov\source\repos\Nums1-20\Nums1-20\bin\Debug\Nums1-20.exe.config
+C:\Users\Cekov\source\repos\Nums1-20\Nums1-20\bin\Debug\Nums1-20.exe
+C:\Users\Cekov\source\repos\Nums1-20\Nums1-20\bin\Debug\Nums1-20.pdb
+C:\Users\Cekov\source\repos\Nums1-20\Nums1-20\obj\Debug\Nums1-20.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Nums1-20\Nums1-20\obj\Debug\Nums1-20.exe
+C:\Users\Cekov\source\repos\Nums1-20\Nums1-20\obj\Debug\Nums1-20.pdb

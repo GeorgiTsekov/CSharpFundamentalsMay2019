@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\obj\Debug\netcoreapp2.1\magicnNumbers.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\obj\Debug\netcoreapp2.1\magicnNumbers.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\obj\Debug\netcoreapp2.1\magicnNumbers.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\obj\Debug\netcoreapp2.1\magicnNumbers.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\bin\Debug\netcoreapp2.1\magicnNumbers.deps.json
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\bin\Debug\netcoreapp2.1\magicnNumbers.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\bin\Debug\netcoreapp2.1\magicnNumbers.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\bin\Debug\netcoreapp2.1\magicnNumbers.dll
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\bin\Debug\netcoreapp2.1\magicnNumbers.pdb
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\obj\Debug\netcoreapp2.1\magicnNumbers.dll
+c:\users\tmp\source\repos\numbersNto1\magicnNumbers\obj\Debug\netcoreapp2.1\magicnNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\bin\Debug\netcoreapp2.1\P08MagicSum.deps.json
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\bin\Debug\netcoreapp2.1\P08MagicSum.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\bin\Debug\netcoreapp2.1\P08MagicSum.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\bin\Debug\netcoreapp2.1\P08MagicSum.dll
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\bin\Debug\netcoreapp2.1\P08MagicSum.pdb
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\obj\Debug\netcoreapp2.1\P08MagicSum.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\obj\Debug\netcoreapp2.1\P08MagicSum.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\obj\Debug\netcoreapp2.1\P08MagicSum.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\obj\Debug\netcoreapp2.1\P08MagicSum.dll
+C:\Dev\TechModul\ArrayExerecises\P08MagicSum\obj\Debug\netcoreapp2.1\P08MagicSum.pdb

@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\bin\Debug\netcoreapp2.1\easterEggsBattle.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\bin\Debug\netcoreapp2.1\easterEggsBattle.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\bin\Debug\netcoreapp2.1\easterEggsBattle.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\bin\Debug\netcoreapp2.1\easterEggsBattle.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\bin\Debug\netcoreapp2.1\easterEggsBattle.pdb
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\obj\Debug\netcoreapp2.1\easterEggsBattle.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\obj\Debug\netcoreapp2.1\easterEggsBattle.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\obj\Debug\netcoreapp2.1\easterEggsBattle.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\obj\Debug\netcoreapp2.1\easterEggsBattle.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterEggsBattle\obj\Debug\netcoreapp2.1\easterEggsBattle.pdb

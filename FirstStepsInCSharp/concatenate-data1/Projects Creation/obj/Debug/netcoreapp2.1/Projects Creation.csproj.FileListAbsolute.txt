@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\bin\Debug\netcoreapp2.1\Projects Creation.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Projects Creation\obj\Debug\netcoreapp2.1\Projects Creation.pdb

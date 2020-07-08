@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\ArraysMoreExercises.deps.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\ArraysMoreExercises.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\ArraysMoreExercises.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\ArraysMoreExercises.dll
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\bin\Debug\netcoreapp2.1\ArraysMoreExercises.pdb
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\ArraysMoreExercises.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\ArraysMoreExercises.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\ArraysMoreExercises.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\ArraysMoreExercises.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\ArraysMoreExercises.dll
+C:\Users\Tmp\source\repos\TechModulTest\ArraysExercise\ArraysExercise\ArraysMoreExercises\ArraysMoreExercises\obj\Debug\netcoreapp2.1\ArraysMoreExercises.pdb

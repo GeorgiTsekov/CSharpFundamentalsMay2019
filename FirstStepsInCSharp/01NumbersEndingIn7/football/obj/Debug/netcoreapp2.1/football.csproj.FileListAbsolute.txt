@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\bin\Debug\netcoreapp2.1\football.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\bin\Debug\netcoreapp2.1\football.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\bin\Debug\netcoreapp2.1\football.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\bin\Debug\netcoreapp2.1\football.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\bin\Debug\netcoreapp2.1\football.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\obj\Debug\netcoreapp2.1\football.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\obj\Debug\netcoreapp2.1\football.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\obj\Debug\netcoreapp2.1\football.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\obj\Debug\netcoreapp2.1\football.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\obj\Debug\netcoreapp2.1\football.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\football\obj\Debug\netcoreapp2.1\football.csprojAssemblyReference.cache

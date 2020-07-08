@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\bin\Debug\netcoreapp2.1\P07OrderByAge.deps.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\bin\Debug\netcoreapp2.1\P07OrderByAge.runtimeconfig.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\bin\Debug\netcoreapp2.1\P07OrderByAge.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\bin\Debug\netcoreapp2.1\P07OrderByAge.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\bin\Debug\netcoreapp2.1\P07OrderByAge.pdb
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\obj\Debug\netcoreapp2.1\P07OrderByAge.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\obj\Debug\netcoreapp2.1\P07OrderByAge.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\obj\Debug\netcoreapp2.1\P07OrderByAge.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\obj\Debug\netcoreapp2.1\P07OrderByAge.AssemblyInfo.cs
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\obj\Debug\netcoreapp2.1\P07OrderByAge.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P07OrderByAge\obj\Debug\netcoreapp2.1\P07OrderByAge.pdb

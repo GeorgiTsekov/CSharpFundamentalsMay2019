@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\numbersNto1\travelling\bin\Debug\netcoreapp2.1\travelling.deps.json
+c:\users\tmp\source\repos\numbersNto1\travelling\bin\Debug\netcoreapp2.1\travelling.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\travelling\bin\Debug\netcoreapp2.1\travelling.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\travelling\bin\Debug\netcoreapp2.1\travelling.dll
+c:\users\tmp\source\repos\numbersNto1\travelling\bin\Debug\netcoreapp2.1\travelling.pdb
+c:\users\tmp\source\repos\numbersNto1\travelling\obj\Debug\netcoreapp2.1\travelling.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\numbersNto1\travelling\obj\Debug\netcoreapp2.1\travelling.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\travelling\obj\Debug\netcoreapp2.1\travelling.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\travelling\obj\Debug\netcoreapp2.1\travelling.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\travelling\obj\Debug\netcoreapp2.1\travelling.dll
+c:\users\tmp\source\repos\numbersNto1\travelling\obj\Debug\netcoreapp2.1\travelling.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\bin\Debug\netcoreapp2.1\P01BreadFactory.deps.json
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\bin\Debug\netcoreapp2.1\P01BreadFactory.runtimeconfig.json
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\bin\Debug\netcoreapp2.1\P01BreadFactory.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\bin\Debug\netcoreapp2.1\P01BreadFactory.dll
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\bin\Debug\netcoreapp2.1\P01BreadFactory.pdb
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\obj\Debug\netcoreapp2.1\P01BreadFactory.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\obj\Debug\netcoreapp2.1\P01BreadFactory.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\obj\Debug\netcoreapp2.1\P01BreadFactory.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\obj\Debug\netcoreapp2.1\P01BreadFactory.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\obj\Debug\netcoreapp2.1\P01BreadFactory.dll
+C:\Dev\TechModul\MidExam02March20019\P01BreadFactory\obj\Debug\netcoreapp2.1\P01BreadFactory.pdb

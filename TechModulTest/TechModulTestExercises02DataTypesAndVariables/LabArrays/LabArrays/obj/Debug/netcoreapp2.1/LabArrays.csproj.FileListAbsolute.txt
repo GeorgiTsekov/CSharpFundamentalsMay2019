@@ -1,0 +1,11 @@
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\bin\Debug\netcoreapp2.1\LabArrays.deps.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\bin\Debug\netcoreapp2.1\LabArrays.runtimeconfig.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\bin\Debug\netcoreapp2.1\LabArrays.runtimeconfig.dev.json
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\bin\Debug\netcoreapp2.1\LabArrays.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\bin\Debug\netcoreapp2.1\LabArrays.pdb
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\obj\Debug\netcoreapp2.1\LabArrays.csprojAssemblyReference.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\obj\Debug\netcoreapp2.1\LabArrays.csproj.CoreCompileInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\obj\Debug\netcoreapp2.1\LabArrays.AssemblyInfoInputs.cache
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\obj\Debug\netcoreapp2.1\LabArrays.AssemblyInfo.cs
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\obj\Debug\netcoreapp2.1\LabArrays.dll
+C:\Dev\TechModulTest\TechModulTestExercises02DataTypesAndVariables\LabArrays\LabArrays\obj\Debug\netcoreapp2.1\LabArrays.pdb

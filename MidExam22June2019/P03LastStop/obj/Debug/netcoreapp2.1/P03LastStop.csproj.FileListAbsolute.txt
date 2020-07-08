@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\bin\Debug\netcoreapp2.1\P03LastStop.deps.json
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\bin\Debug\netcoreapp2.1\P03LastStop.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\bin\Debug\netcoreapp2.1\P03LastStop.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\bin\Debug\netcoreapp2.1\P03LastStop.dll
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\bin\Debug\netcoreapp2.1\P03LastStop.pdb
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\obj\Debug\netcoreapp2.1\P03LastStop.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\obj\Debug\netcoreapp2.1\P03LastStop.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\obj\Debug\netcoreapp2.1\P03LastStop.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\obj\Debug\netcoreapp2.1\P03LastStop.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\obj\Debug\netcoreapp2.1\P03LastStop.dll
+C:\Users\Tmp\source\repos\TechModul\MidExam22June2019\P03LastStop\obj\Debug\netcoreapp2.1\P03LastStop.pdb

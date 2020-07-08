@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\bin\Debug\netcoreapp2.1\P02MinerTask.deps.json
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\bin\Debug\netcoreapp2.1\P02MinerTask.runtimeconfig.json
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\bin\Debug\netcoreapp2.1\P02MinerTask.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\bin\Debug\netcoreapp2.1\P02MinerTask.dll
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\bin\Debug\netcoreapp2.1\P02MinerTask.pdb
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\obj\Debug\netcoreapp2.1\P02MinerTask.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\obj\Debug\netcoreapp2.1\P02MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\obj\Debug\netcoreapp2.1\P02MinerTask.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\obj\Debug\netcoreapp2.1\P02MinerTask.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\obj\Debug\netcoreapp2.1\P02MinerTask.dll
+C:\Users\Cekov\source\repos\ExerciseAssociativeArrays\P02MinerTask\obj\Debug\netcoreapp2.1\P02MinerTask.pdb

@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\bin\Debug\netcoreapp2.1\paintingEgss.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\bin\Debug\netcoreapp2.1\paintingEgss.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\bin\Debug\netcoreapp2.1\paintingEgss.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\bin\Debug\netcoreapp2.1\paintingEgss.dll
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\bin\Debug\netcoreapp2.1\paintingEgss.pdb
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\obj\Debug\netcoreapp2.1\paintingEgss.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\obj\Debug\netcoreapp2.1\paintingEgss.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\obj\Debug\netcoreapp2.1\paintingEgss.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\obj\Debug\netcoreapp2.1\paintingEgss.dll
+C:\Users\Cekov\source\repos\stadionIncom\paintingEgss\obj\Debug\netcoreapp2.1\paintingEgss.pdb

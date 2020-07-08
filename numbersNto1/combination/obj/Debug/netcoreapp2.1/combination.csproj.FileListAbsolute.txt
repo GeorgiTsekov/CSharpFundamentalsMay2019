@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\numbersNto1\combination\bin\Debug\netcoreapp2.1\combination.deps.json
+c:\users\tmp\source\repos\numbersNto1\combination\bin\Debug\netcoreapp2.1\combination.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\combination\bin\Debug\netcoreapp2.1\combination.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\combination\bin\Debug\netcoreapp2.1\combination.dll
+c:\users\tmp\source\repos\numbersNto1\combination\bin\Debug\netcoreapp2.1\combination.pdb
+c:\users\tmp\source\repos\numbersNto1\combination\obj\Debug\netcoreapp2.1\combination.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\numbersNto1\combination\obj\Debug\netcoreapp2.1\combination.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\combination\obj\Debug\netcoreapp2.1\combination.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\combination\obj\Debug\netcoreapp2.1\combination.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\combination\obj\Debug\netcoreapp2.1\combination.dll
+c:\users\tmp\source\repos\numbersNto1\combination\obj\Debug\netcoreapp2.1\combination.pdb

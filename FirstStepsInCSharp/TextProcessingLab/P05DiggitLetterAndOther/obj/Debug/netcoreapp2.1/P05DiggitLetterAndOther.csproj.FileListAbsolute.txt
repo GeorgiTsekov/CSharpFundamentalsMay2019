@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\bin\Debug\netcoreapp2.1\P05DiggitLetterAndOther.deps.json
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\bin\Debug\netcoreapp2.1\P05DiggitLetterAndOther.runtimeconfig.json
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\bin\Debug\netcoreapp2.1\P05DiggitLetterAndOther.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\bin\Debug\netcoreapp2.1\P05DiggitLetterAndOther.dll
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\bin\Debug\netcoreapp2.1\P05DiggitLetterAndOther.pdb
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\obj\Debug\netcoreapp2.1\P05DiggitLetterAndOther.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\obj\Debug\netcoreapp2.1\P05DiggitLetterAndOther.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\obj\Debug\netcoreapp2.1\P05DiggitLetterAndOther.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\obj\Debug\netcoreapp2.1\P05DiggitLetterAndOther.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\obj\Debug\netcoreapp2.1\P05DiggitLetterAndOther.dll
+C:\Users\Cekov\source\repos\TextProcessingLab\P05DiggitLetterAndOther\obj\Debug\netcoreapp2.1\P05DiggitLetterAndOther.pdb

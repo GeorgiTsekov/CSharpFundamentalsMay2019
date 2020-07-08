@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\bin\Debug\netcoreapp2.1\sumPrimeNonPrime.deps.json
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\bin\Debug\netcoreapp2.1\sumPrimeNonPrime.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\bin\Debug\netcoreapp2.1\sumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\bin\Debug\netcoreapp2.1\sumPrimeNonPrime.dll
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\bin\Debug\netcoreapp2.1\sumPrimeNonPrime.pdb
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\obj\Debug\netcoreapp2.1\sumPrimeNonPrime.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\obj\Debug\netcoreapp2.1\sumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\obj\Debug\netcoreapp2.1\sumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\obj\Debug\netcoreapp2.1\sumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\obj\Debug\netcoreapp2.1\sumPrimeNonPrime.dll
+C:\Users\Cekov\source\repos\matrix\sumPrimeNonPrime\obj\Debug\netcoreapp2.1\sumPrimeNonPrime.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\bin\Debug\netcoreapp2.1\P11ArrayManipulator.deps.json
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\bin\Debug\netcoreapp2.1\P11ArrayManipulator.runtimeconfig.json
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\bin\Debug\netcoreapp2.1\P11ArrayManipulator.runtimeconfig.dev.json
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\bin\Debug\netcoreapp2.1\P11ArrayManipulator.dll
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\bin\Debug\netcoreapp2.1\P11ArrayManipulator.pdb
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\obj\Debug\netcoreapp2.1\P11ArrayManipulator.csprojAssemblyReference.cache
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\obj\Debug\netcoreapp2.1\P11ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\obj\Debug\netcoreapp2.1\P11ArrayManipulator.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\obj\Debug\netcoreapp2.1\P11ArrayManipulator.AssemblyInfo.cs
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\obj\Debug\netcoreapp2.1\P11ArrayManipulator.dll
+C:\Dev\TechModul\MethodsExercise\P11ArrayManipulator\obj\Debug\netcoreapp2.1\P11ArrayManipulator.pdb

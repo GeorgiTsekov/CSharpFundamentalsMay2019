@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\bin\Debug\netcoreapp2.1\fanShop.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\bin\Debug\netcoreapp2.1\fanShop.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\bin\Debug\netcoreapp2.1\fanShop.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\bin\Debug\netcoreapp2.1\fanShop.dll
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\bin\Debug\netcoreapp2.1\fanShop.pdb
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\obj\Debug\netcoreapp2.1\fanShop.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\obj\Debug\netcoreapp2.1\fanShop.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\obj\Debug\netcoreapp2.1\fanShop.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\obj\Debug\netcoreapp2.1\fanShop.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\obj\Debug\netcoreapp2.1\fanShop.dll
+C:\Users\Cekov\source\repos\stadionIncom\fanShop\obj\Debug\netcoreapp2.1\fanShop.pdb

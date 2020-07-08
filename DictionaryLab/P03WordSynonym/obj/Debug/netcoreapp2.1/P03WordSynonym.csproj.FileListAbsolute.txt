@@ -1,0 +1,11 @@
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\bin\Debug\netcoreapp2.1\P03WordSynonym.deps.json
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\bin\Debug\netcoreapp2.1\P03WordSynonym.runtimeconfig.json
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\bin\Debug\netcoreapp2.1\P03WordSynonym.runtimeconfig.dev.json
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\bin\Debug\netcoreapp2.1\P03WordSynonym.dll
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\bin\Debug\netcoreapp2.1\P03WordSynonym.pdb
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\obj\Debug\netcoreapp2.1\P03WordSynonym.csprojAssemblyReference.cache
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\obj\Debug\netcoreapp2.1\P03WordSynonym.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\obj\Debug\netcoreapp2.1\P03WordSynonym.AssemblyInfoInputs.cache
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\obj\Debug\netcoreapp2.1\P03WordSynonym.AssemblyInfo.cs
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\obj\Debug\netcoreapp2.1\P03WordSynonym.dll
+C:\Dev\TechModul\DictionaryLab\P03WordSynonym\obj\Debug\netcoreapp2.1\P03WordSynonym.pdb

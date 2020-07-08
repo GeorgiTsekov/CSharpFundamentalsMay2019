@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\bin\Debug\netcoreapp2.1\NUMS1to20.deps.json
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\bin\Debug\netcoreapp2.1\NUMS1to20.runtimeconfig.json
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\bin\Debug\netcoreapp2.1\NUMS1to20.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\bin\Debug\netcoreapp2.1\NUMS1to20.dll
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\bin\Debug\netcoreapp2.1\NUMS1to20.pdb
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\obj\Debug\netcoreapp2.1\NUMS1to20.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\obj\Debug\netcoreapp2.1\NUMS1to20.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\obj\Debug\netcoreapp2.1\NUMS1to20.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\obj\Debug\netcoreapp2.1\NUMS1to20.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\obj\Debug\netcoreapp2.1\NUMS1to20.dll
+C:\Users\Cekov\source\repos\NUMS1to20\NUMS1to20\obj\Debug\netcoreapp2.1\NUMS1to20.pdb

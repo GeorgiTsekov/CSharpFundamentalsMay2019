@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\bin\Debug\netcoreapp2.1\salary.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\bin\Debug\netcoreapp2.1\salary.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\bin\Debug\netcoreapp2.1\salary.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\bin\Debug\netcoreapp2.1\salary.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\bin\Debug\netcoreapp2.1\salary.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\obj\Debug\netcoreapp2.1\salary.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\obj\Debug\netcoreapp2.1\salary.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\obj\Debug\netcoreapp2.1\salary.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\obj\Debug\netcoreapp2.1\salary.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\salary\obj\Debug\netcoreapp2.1\salary.pdb

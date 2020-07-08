@@ -1,0 +1,10 @@
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\bin\Debug\netcoreapp2.1\easterLaunch.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\bin\Debug\netcoreapp2.1\easterLaunch.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\bin\Debug\netcoreapp2.1\easterLaunch.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\bin\Debug\netcoreapp2.1\easterLaunch.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\bin\Debug\netcoreapp2.1\easterLaunch.pdb
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\obj\Debug\netcoreapp2.1\easterLaunch.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\obj\Debug\netcoreapp2.1\easterLaunch.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\obj\Debug\netcoreapp2.1\easterLaunch.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\obj\Debug\netcoreapp2.1\easterLaunch.dll
+C:\Users\Cekov\source\repos\stadionIncom\easterLaunch\obj\Debug\netcoreapp2.1\easterLaunch.pdb

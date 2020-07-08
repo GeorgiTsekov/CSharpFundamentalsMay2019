@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\bin\Debug\netcoreapp2.1\histogram.deps.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\bin\Debug\netcoreapp2.1\histogram.runtimeconfig.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\bin\Debug\netcoreapp2.1\histogram.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\bin\Debug\netcoreapp2.1\histogram.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\bin\Debug\netcoreapp2.1\histogram.pdb
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\obj\Debug\netcoreapp2.1\histogram.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\obj\Debug\netcoreapp2.1\histogram.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\obj\Debug\netcoreapp2.1\histogram.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\obj\Debug\netcoreapp2.1\histogram.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\obj\Debug\netcoreapp2.1\histogram.dll
+C:\Users\Cekov\source\repos\01NumbersEndingIn7\histogram\obj\Debug\netcoreapp2.1\histogram.pdb

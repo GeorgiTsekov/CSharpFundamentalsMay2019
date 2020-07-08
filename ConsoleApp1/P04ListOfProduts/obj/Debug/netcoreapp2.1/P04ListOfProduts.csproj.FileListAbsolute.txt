@@ -1,0 +1,10 @@
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\bin\Debug\netcoreapp2.1\P04ListOfProduts.deps.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\bin\Debug\netcoreapp2.1\P04ListOfProduts.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\bin\Debug\netcoreapp2.1\P04ListOfProduts.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\bin\Debug\netcoreapp2.1\P04ListOfProduts.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\bin\Debug\netcoreapp2.1\P04ListOfProduts.pdb
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\obj\Debug\netcoreapp2.1\P04ListOfProduts.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\obj\Debug\netcoreapp2.1\P04ListOfProduts.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\obj\Debug\netcoreapp2.1\P04ListOfProduts.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\obj\Debug\netcoreapp2.1\P04ListOfProduts.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P04ListOfProduts\obj\Debug\netcoreapp2.1\P04ListOfProduts.pdb

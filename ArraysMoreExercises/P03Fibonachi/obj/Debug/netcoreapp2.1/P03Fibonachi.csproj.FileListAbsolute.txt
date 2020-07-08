@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\bin\Debug\netcoreapp2.1\P03Fibonachi.deps.json
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\bin\Debug\netcoreapp2.1\P03Fibonachi.runtimeconfig.json
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\bin\Debug\netcoreapp2.1\P03Fibonachi.runtimeconfig.dev.json
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\bin\Debug\netcoreapp2.1\P03Fibonachi.dll
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\bin\Debug\netcoreapp2.1\P03Fibonachi.pdb
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\obj\Debug\netcoreapp2.1\P03Fibonachi.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\obj\Debug\netcoreapp2.1\P03Fibonachi.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\obj\Debug\netcoreapp2.1\P03Fibonachi.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\obj\Debug\netcoreapp2.1\P03Fibonachi.AssemblyInfo.cs
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\obj\Debug\netcoreapp2.1\P03Fibonachi.dll
+C:\Dev\TechModul\ArraysMoreExercises\P03Fibonachi\obj\Debug\netcoreapp2.1\P03Fibonachi.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cekov\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+C:\Users\Cekov\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\ExcellentResult.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\ExcellentResult\bin\Debug\ExcellentResult.pdb
+C:\Users\Cekov\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\ExcellentResult.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\ExcellentResult.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\ExcellentResult\obj\Debug\ExcellentResult.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\bin\Debug\netcoreapp2.1\P02SongEncryption.deps.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\bin\Debug\netcoreapp2.1\P02SongEncryption.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\bin\Debug\netcoreapp2.1\P02SongEncryption.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\bin\Debug\netcoreapp2.1\P02SongEncryption.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\bin\Debug\netcoreapp2.1\P02SongEncryption.pdb
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\obj\Debug\netcoreapp2.1\P02SongEncryption.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\obj\Debug\netcoreapp2.1\P02SongEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\obj\Debug\netcoreapp2.1\P02SongEncryption.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\obj\Debug\netcoreapp2.1\P02SongEncryption.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\obj\Debug\netcoreapp2.1\P02SongEncryption.dll
+C:\Users\Tmp\source\repos\TechModul\FinalExamPrep24July2019\P02SongEncryption\obj\Debug\netcoreapp2.1\P02SongEncryption.pdb

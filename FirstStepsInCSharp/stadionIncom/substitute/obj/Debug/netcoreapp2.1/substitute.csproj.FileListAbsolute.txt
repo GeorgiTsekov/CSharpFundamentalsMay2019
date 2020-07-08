@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\substitute\obj\Debug\netcoreapp2.1\substitute.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\substitute\obj\Debug\netcoreapp2.1\substitute.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\substitute\obj\Debug\netcoreapp2.1\substitute.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\substitute\obj\Debug\netcoreapp2.1\substitute.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\substitute\bin\Debug\netcoreapp2.1\substitute.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\substitute\bin\Debug\netcoreapp2.1\substitute.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\substitute\bin\Debug\netcoreapp2.1\substitute.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\substitute\bin\Debug\netcoreapp2.1\substitute.dll
+C:\Users\Cekov\source\repos\stadionIncom\substitute\bin\Debug\netcoreapp2.1\substitute.pdb
+C:\Users\Cekov\source\repos\stadionIncom\substitute\obj\Debug\netcoreapp2.1\substitute.dll
+C:\Users\Cekov\source\repos\stadionIncom\substitute\obj\Debug\netcoreapp2.1\substitute.pdb

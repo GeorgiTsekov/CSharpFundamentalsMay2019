@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\bin\Debug\netcoreapp2.1\SantasList.deps.json
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\bin\Debug\netcoreapp2.1\SantasList.runtimeconfig.json
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\bin\Debug\netcoreapp2.1\SantasList.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\bin\Debug\netcoreapp2.1\SantasList.dll
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\bin\Debug\netcoreapp2.1\SantasList.pdb
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\obj\Debug\netcoreapp2.1\SantasList.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\obj\Debug\netcoreapp2.1\SantasList.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\obj\Debug\netcoreapp2.1\SantasList.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\obj\Debug\netcoreapp2.1\SantasList.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\obj\Debug\netcoreapp2.1\SantasList.dll
+C:\Dev\TechModul\MidExam18Dec2018\SantasList\obj\Debug\netcoreapp2.1\SantasList.pdb

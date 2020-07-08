@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\bin\Debug\netcoreapp2.1\P02Articles.deps.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\bin\Debug\netcoreapp2.1\P02Articles.runtimeconfig.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\bin\Debug\netcoreapp2.1\P02Articles.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\bin\Debug\netcoreapp2.1\P02Articles.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\bin\Debug\netcoreapp2.1\P02Articles.pdb
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\obj\Debug\netcoreapp2.1\P02Articles.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\obj\Debug\netcoreapp2.1\P02Articles.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\obj\Debug\netcoreapp2.1\P02Articles.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\obj\Debug\netcoreapp2.1\P02Articles.AssemblyInfo.cs
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\obj\Debug\netcoreapp2.1\P02Articles.dll
+C:\Dev\TechModul\MidExamTest\ExerciseObjectsAndClasses\P02Articles\obj\Debug\netcoreapp2.1\P02Articles.pdb

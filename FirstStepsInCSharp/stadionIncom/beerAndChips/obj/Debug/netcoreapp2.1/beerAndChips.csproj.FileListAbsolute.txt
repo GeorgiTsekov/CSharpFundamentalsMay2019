@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\bin\Debug\netcoreapp2.1\beerAndChips.deps.json
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\bin\Debug\netcoreapp2.1\beerAndChips.runtimeconfig.json
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\bin\Debug\netcoreapp2.1\beerAndChips.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\bin\Debug\netcoreapp2.1\beerAndChips.dll
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\bin\Debug\netcoreapp2.1\beerAndChips.pdb
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\obj\Debug\netcoreapp2.1\beerAndChips.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\obj\Debug\netcoreapp2.1\beerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\obj\Debug\netcoreapp2.1\beerAndChips.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\obj\Debug\netcoreapp2.1\beerAndChips.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\obj\Debug\netcoreapp2.1\beerAndChips.dll
+C:\Users\Cekov\source\repos\stadionIncom\beerAndChips\obj\Debug\netcoreapp2.1\beerAndChips.pdb

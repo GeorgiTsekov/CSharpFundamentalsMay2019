@@ -1,0 +1,7 @@
+C:\Users\Cekov\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\AreaOfFigures.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\AreaOfFigures.exe.config
+C:\Users\Cekov\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\AreaOfFigures.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\Cekov\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\AreaOfFigures.exe
+C:\Users\Cekov\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\AreaOfFigures.pdb

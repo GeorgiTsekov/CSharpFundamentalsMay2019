@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\numbersNto1\NameWars\obj\Debug\netcoreapp2.1\NameWars.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\numbersNto1\NameWars\obj\Debug\netcoreapp2.1\NameWars.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\NameWars\obj\Debug\netcoreapp2.1\NameWars.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\NameWars\obj\Debug\netcoreapp2.1\NameWars.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\NameWars\bin\Debug\netcoreapp2.1\NameWars.deps.json
+c:\users\tmp\source\repos\numbersNto1\NameWars\bin\Debug\netcoreapp2.1\NameWars.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\NameWars\bin\Debug\netcoreapp2.1\NameWars.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\NameWars\bin\Debug\netcoreapp2.1\NameWars.dll
+c:\users\tmp\source\repos\numbersNto1\NameWars\bin\Debug\netcoreapp2.1\NameWars.pdb
+c:\users\tmp\source\repos\numbersNto1\NameWars\obj\Debug\netcoreapp2.1\NameWars.dll
+c:\users\tmp\source\repos\numbersNto1\NameWars\obj\Debug\netcoreapp2.1\NameWars.pdb

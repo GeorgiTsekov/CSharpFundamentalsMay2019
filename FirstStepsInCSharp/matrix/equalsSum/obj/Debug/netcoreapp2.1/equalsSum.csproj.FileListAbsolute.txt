@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\matrix\equalsSum\bin\Debug\netcoreapp2.1\equalsSum.deps.json
+C:\Users\Cekov\source\repos\matrix\equalsSum\bin\Debug\netcoreapp2.1\equalsSum.runtimeconfig.json
+C:\Users\Cekov\source\repos\matrix\equalsSum\bin\Debug\netcoreapp2.1\equalsSum.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\matrix\equalsSum\bin\Debug\netcoreapp2.1\equalsSum.dll
+C:\Users\Cekov\source\repos\matrix\equalsSum\bin\Debug\netcoreapp2.1\equalsSum.pdb
+C:\Users\Cekov\source\repos\matrix\equalsSum\obj\Debug\netcoreapp2.1\equalsSum.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\matrix\equalsSum\obj\Debug\netcoreapp2.1\equalsSum.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\matrix\equalsSum\obj\Debug\netcoreapp2.1\equalsSum.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\matrix\equalsSum\obj\Debug\netcoreapp2.1\equalsSum.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\matrix\equalsSum\obj\Debug\netcoreapp2.1\equalsSum.dll
+C:\Users\Cekov\source\repos\matrix\equalsSum\obj\Debug\netcoreapp2.1\equalsSum.pdb

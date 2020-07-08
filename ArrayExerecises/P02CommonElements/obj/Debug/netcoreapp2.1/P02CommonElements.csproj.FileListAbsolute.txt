@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.deps.json
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.runtimeconfig.json
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.runtimeconfig.dev.json
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.dll
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\bin\Debug\netcoreapp2.1\P02CommonElements.pdb
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.csprojAssemblyReference.cache
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.AssemblyInfo.cs
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.dll
+C:\Dev\TechModul\ArrayExerecises\P02CommonElements\obj\Debug\netcoreapp2.1\P02CommonElements.pdb

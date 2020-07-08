@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\bin\Debug\netcoreapp2.1\P01ValidUsernames.deps.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\bin\Debug\netcoreapp2.1\P01ValidUsernames.runtimeconfig.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\bin\Debug\netcoreapp2.1\P01ValidUsernames.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\bin\Debug\netcoreapp2.1\P01ValidUsernames.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\bin\Debug\netcoreapp2.1\P01ValidUsernames.pdb
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\obj\Debug\netcoreapp2.1\P01ValidUsernames.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\obj\Debug\netcoreapp2.1\P01ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\obj\Debug\netcoreapp2.1\P01ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\obj\Debug\netcoreapp2.1\P01ValidUsernames.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\obj\Debug\netcoreapp2.1\P01ValidUsernames.dll
+C:\Users\Tmp\source\repos\P01ValidUsernames\P01ValidUsernames\obj\Debug\netcoreapp2.1\P01ValidUsernames.pdb

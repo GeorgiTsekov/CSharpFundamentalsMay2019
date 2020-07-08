@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\bin\Debug\netcoreapp2.1\P03EasterShopping.deps.json
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\bin\Debug\netcoreapp2.1\P03EasterShopping.runtimeconfig.json
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\bin\Debug\netcoreapp2.1\P03EasterShopping.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\bin\Debug\netcoreapp2.1\P03EasterShopping.dll
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\bin\Debug\netcoreapp2.1\P03EasterShopping.pdb
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\obj\Debug\netcoreapp2.1\P03EasterShopping.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\obj\Debug\netcoreapp2.1\P03EasterShopping.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\obj\Debug\netcoreapp2.1\P03EasterShopping.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\obj\Debug\netcoreapp2.1\P03EasterShopping.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\obj\Debug\netcoreapp2.1\P03EasterShopping.dll
+C:\Dev\TechModul\MidExam\Retake16April2019\P03EasterShopping\obj\Debug\netcoreapp2.1\P03EasterShopping.pdb

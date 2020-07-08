@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\bin\Debug\netcoreapp2.1\P04StarEnigma.deps.json
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\bin\Debug\netcoreapp2.1\P04StarEnigma.runtimeconfig.json
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\bin\Debug\netcoreapp2.1\P04StarEnigma.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\bin\Debug\netcoreapp2.1\P04StarEnigma.dll
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\bin\Debug\netcoreapp2.1\P04StarEnigma.pdb
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\obj\Debug\netcoreapp2.1\P04StarEnigma.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\obj\Debug\netcoreapp2.1\P04StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\obj\Debug\netcoreapp2.1\P04StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\obj\Debug\netcoreapp2.1\P04StarEnigma.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\obj\Debug\netcoreapp2.1\P04StarEnigma.dll
+C:\Users\Tmp\source\repos\RegularExpressionsExe\P04StarEnigma\obj\Debug\netcoreapp2.1\P04StarEnigma.pdb

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\bin\Debug\netcoreapp2.1\P03PresentDelivery.deps.json
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\bin\Debug\netcoreapp2.1\P03PresentDelivery.runtimeconfig.json
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\bin\Debug\netcoreapp2.1\P03PresentDelivery.runtimeconfig.dev.json
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\bin\Debug\netcoreapp2.1\P03PresentDelivery.dll
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\bin\Debug\netcoreapp2.1\P03PresentDelivery.pdb
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\obj\Debug\netcoreapp2.1\P03PresentDelivery.csprojAssemblyReference.cache
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\obj\Debug\netcoreapp2.1\P03PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\obj\Debug\netcoreapp2.1\P03PresentDelivery.AssemblyInfoInputs.cache
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\obj\Debug\netcoreapp2.1\P03PresentDelivery.AssemblyInfo.cs
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\obj\Debug\netcoreapp2.1\P03PresentDelivery.dll
+C:\Dev\TechModul\MidExam18Dec2018\P03PresentDelivery\obj\Debug\netcoreapp2.1\P03PresentDelivery.pdb

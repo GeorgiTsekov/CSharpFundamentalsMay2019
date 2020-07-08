@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\bin\Debug\netcoreapp2.1\P02CarRace.deps.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\bin\Debug\netcoreapp2.1\P02CarRace.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\bin\Debug\netcoreapp2.1\P02CarRace.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\bin\Debug\netcoreapp2.1\P02CarRace.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\bin\Debug\netcoreapp2.1\P02CarRace.pdb
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\obj\Debug\netcoreapp2.1\P02CarRace.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\obj\Debug\netcoreapp2.1\P02CarRace.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\obj\Debug\netcoreapp2.1\P02CarRace.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\obj\Debug\netcoreapp2.1\P02CarRace.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\obj\Debug\netcoreapp2.1\P02CarRace.pdb
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P02CarRace\obj\Debug\netcoreapp2.1\P02CarRace.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\bin\Debug\netcoreapp2.1\P02PascalTriangle.deps.json
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\bin\Debug\netcoreapp2.1\P02PascalTriangle.runtimeconfig.json
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\bin\Debug\netcoreapp2.1\P02PascalTriangle.runtimeconfig.dev.json
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\bin\Debug\netcoreapp2.1\P02PascalTriangle.dll
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\bin\Debug\netcoreapp2.1\P02PascalTriangle.pdb
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\obj\Debug\netcoreapp2.1\P02PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\obj\Debug\netcoreapp2.1\P02PascalTriangle.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\obj\Debug\netcoreapp2.1\P02PascalTriangle.AssemblyInfo.cs
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\obj\Debug\netcoreapp2.1\P02PascalTriangle.dll
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\obj\Debug\netcoreapp2.1\P02PascalTriangle.pdb
+C:\Dev\TechModul\ArraysMoreExercises\P02PascalTriangle\obj\Debug\netcoreapp2.1\P02PascalTriangle.csprojAssemblyReference.cache

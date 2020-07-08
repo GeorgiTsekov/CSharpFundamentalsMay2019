@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\bin\Debug\netcoreapp2.1\P02Desifering.deps.json
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\bin\Debug\netcoreapp2.1\P02Desifering.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\bin\Debug\netcoreapp2.1\P02Desifering.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\bin\Debug\netcoreapp2.1\P02Desifering.dll
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\bin\Debug\netcoreapp2.1\P02Desifering.pdb
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\obj\Debug\netcoreapp2.1\P02Desifering.csprojAssemblyReference.cache
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\obj\Debug\netcoreapp2.1\P02Desifering.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\obj\Debug\netcoreapp2.1\P02Desifering.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\obj\Debug\netcoreapp2.1\P02Desifering.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\obj\Debug\netcoreapp2.1\P02Desifering.dll
+C:\Users\Tmp\source\repos\TechModul\DemoFinalExam06April2019\P02Desifering\obj\Debug\netcoreapp2.1\P02Desifering.pdb

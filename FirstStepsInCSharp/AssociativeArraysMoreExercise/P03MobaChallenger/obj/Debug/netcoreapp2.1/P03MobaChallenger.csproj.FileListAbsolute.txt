@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\bin\Debug\netcoreapp2.1\P03MobaChallenger.deps.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\bin\Debug\netcoreapp2.1\P03MobaChallenger.runtimeconfig.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\bin\Debug\netcoreapp2.1\P03MobaChallenger.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\bin\Debug\netcoreapp2.1\P03MobaChallenger.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\bin\Debug\netcoreapp2.1\P03MobaChallenger.pdb
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\obj\Debug\netcoreapp2.1\P03MobaChallenger.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\obj\Debug\netcoreapp2.1\P03MobaChallenger.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\obj\Debug\netcoreapp2.1\P03MobaChallenger.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\obj\Debug\netcoreapp2.1\P03MobaChallenger.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\obj\Debug\netcoreapp2.1\P03MobaChallenger.dll
+C:\Users\Cekov\source\repos\AssociativeArraysMoreExercise\P03MobaChallenger\obj\Debug\netcoreapp2.1\P03MobaChallenger.pdb

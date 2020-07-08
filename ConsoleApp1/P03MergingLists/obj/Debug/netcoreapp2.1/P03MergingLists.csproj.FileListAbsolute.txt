@@ -1,0 +1,10 @@
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\obj\Debug\netcoreapp2.1\P03MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\obj\Debug\netcoreapp2.1\P03MergingLists.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\obj\Debug\netcoreapp2.1\P03MergingLists.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\bin\Debug\netcoreapp2.1\P03MergingLists.deps.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\bin\Debug\netcoreapp2.1\P03MergingLists.runtimeconfig.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\bin\Debug\netcoreapp2.1\P03MergingLists.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\bin\Debug\netcoreapp2.1\P03MergingLists.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\bin\Debug\netcoreapp2.1\P03MergingLists.pdb
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\obj\Debug\netcoreapp2.1\P03MergingLists.dll
+C:\Users\Tmp\source\repos\TechModul\ConsoleApp1\P03MergingLists\obj\Debug\netcoreapp2.1\P03MergingLists.pdb

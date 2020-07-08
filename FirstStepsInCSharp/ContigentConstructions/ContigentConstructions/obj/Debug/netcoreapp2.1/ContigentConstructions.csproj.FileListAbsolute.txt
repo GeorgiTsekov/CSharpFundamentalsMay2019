@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\bin\Debug\netcoreapp2.1\ContigentConstructions.deps.json
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\bin\Debug\netcoreapp2.1\ContigentConstructions.runtimeconfig.json
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\bin\Debug\netcoreapp2.1\ContigentConstructions.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\bin\Debug\netcoreapp2.1\ContigentConstructions.dll
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\bin\Debug\netcoreapp2.1\ContigentConstructions.pdb
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\obj\Debug\netcoreapp2.1\ContigentConstructions.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\obj\Debug\netcoreapp2.1\ContigentConstructions.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\obj\Debug\netcoreapp2.1\ContigentConstructions.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\obj\Debug\netcoreapp2.1\ContigentConstructions.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\obj\Debug\netcoreapp2.1\ContigentConstructions.dll
+C:\Users\Cekov\source\repos\ContigentConstructions\ContigentConstructions\obj\Debug\netcoreapp2.1\ContigentConstructions.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01Encrypt", "ArraysMoreExercises\P01Encrypt.csproj", "{63C419A8-69B1-4044-B336-C39A213163F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02PascalTriangle", "P02PascalTriangle\P02PascalTriangle.csproj", "{797051CE-9E5C-4B85-AE2B-73B6A03F4A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C419A8-69B1-4044-B336-C39A213163F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C419A8-69B1-4044-B336-C39A213163F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C419A8-69B1-4044-B336-C39A213163F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C419A8-69B1-4044-B336-C39A213163F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797051CE-9E5C-4B85-AE2B-73B6A03F4A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797051CE-9E5C-4B85-AE2B-73B6A03F4A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797051CE-9E5C-4B85-AE2B-73B6A03F4A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797051CE-9E5C-4B85-AE2B-73B6A03F4A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD26341-06BD-4EB9-AE0B-E4CB7CE9EF94}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\bin\Debug\netcoreapp2.1\P03TreasureFinder.deps.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\bin\Debug\netcoreapp2.1\P03TreasureFinder.runtimeconfig.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\bin\Debug\netcoreapp2.1\P03TreasureFinder.runtimeconfig.dev.json
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\bin\Debug\netcoreapp2.1\P03TreasureFinder.dll
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\bin\Debug\netcoreapp2.1\P03TreasureFinder.pdb
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\obj\Debug\netcoreapp2.1\P03TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\obj\Debug\netcoreapp2.1\P03TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\obj\Debug\netcoreapp2.1\P03TreasureFinder.AssemblyInfo.cs
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\obj\Debug\netcoreapp2.1\P03TreasureFinder.dll
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\obj\Debug\netcoreapp2.1\P03TreasureFinder.pdb
+C:\Users\Tmp\source\repos\StringAndTextProcessingMoreExe\P03TreasureFinder\obj\Debug\netcoreapp2.1\P03TreasureFinder.csprojAssemblyReference.cache

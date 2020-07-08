@@ -1,0 +1,11 @@
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\bin\Debug\netcoreapp2.1\P07StoreBoxes.deps.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\bin\Debug\netcoreapp2.1\P07StoreBoxes.runtimeconfig.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\bin\Debug\netcoreapp2.1\P07StoreBoxes.runtimeconfig.dev.json
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\bin\Debug\netcoreapp2.1\P07StoreBoxes.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\bin\Debug\netcoreapp2.1\P07StoreBoxes.pdb
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\obj\Debug\netcoreapp2.1\P07StoreBoxes.csprojAssemblyReference.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\obj\Debug\netcoreapp2.1\P07StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\obj\Debug\netcoreapp2.1\P07StoreBoxes.AssemblyInfoInputs.cache
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\obj\Debug\netcoreapp2.1\P07StoreBoxes.AssemblyInfo.cs
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\obj\Debug\netcoreapp2.1\P07StoreBoxes.dll
+C:\Dev\TechModul\ObjectsAndClassesLab\P07StoreBoxes\obj\Debug\netcoreapp2.1\P07StoreBoxes.pdb

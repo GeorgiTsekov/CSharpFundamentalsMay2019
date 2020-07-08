@@ -1,0 +1,11 @@
+c:\users\tmp\source\repos\numbersNto1\building\bin\Debug\netcoreapp2.1\building.deps.json
+c:\users\tmp\source\repos\numbersNto1\building\bin\Debug\netcoreapp2.1\building.runtimeconfig.json
+c:\users\tmp\source\repos\numbersNto1\building\bin\Debug\netcoreapp2.1\building.runtimeconfig.dev.json
+c:\users\tmp\source\repos\numbersNto1\building\bin\Debug\netcoreapp2.1\building.dll
+c:\users\tmp\source\repos\numbersNto1\building\bin\Debug\netcoreapp2.1\building.pdb
+c:\users\tmp\source\repos\numbersNto1\building\obj\Debug\netcoreapp2.1\building.csprojAssemblyReference.cache
+c:\users\tmp\source\repos\numbersNto1\building\obj\Debug\netcoreapp2.1\building.csproj.CoreCompileInputs.cache
+c:\users\tmp\source\repos\numbersNto1\building\obj\Debug\netcoreapp2.1\building.AssemblyInfoInputs.cache
+c:\users\tmp\source\repos\numbersNto1\building\obj\Debug\netcoreapp2.1\building.AssemblyInfo.cs
+c:\users\tmp\source\repos\numbersNto1\building\obj\Debug\netcoreapp2.1\building.dll
+c:\users\tmp\source\repos\numbersNto1\building\obj\Debug\netcoreapp2.1\building.pdb

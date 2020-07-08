@@ -1,0 +1,11 @@
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\bin\Debug\netcoreapp2.1\Birthday.deps.json
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.json
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\bin\Debug\netcoreapp2.1\Birthday.runtimeconfig.dev.json
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\bin\Debug\netcoreapp2.1\Birthday.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\bin\Debug\netcoreapp2.1\Birthday.pdb
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\obj\Debug\netcoreapp2.1\Birthday.csprojAssemblyReference.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\obj\Debug\netcoreapp2.1\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfoInputs.cache
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\obj\Debug\netcoreapp2.1\Birthday.AssemblyInfo.cs
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\obj\Debug\netcoreapp2.1\Birthday.dll
+C:\Users\Cekov\source\repos\concatenate-data1\Birthday\obj\Debug\netcoreapp2.1\Birthday.pdb
